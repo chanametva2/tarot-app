@@ -1,26 +1,71 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+  
+  /* OpenCode Colors */
+  --oc-dark: #201d1d;
+  --oc-light: #fdfcfc;
+  --oc-mid-gray: #9a9898;
+  --oc-dark-surface: #302c2c;
+  --oc-border-gray: #646262;
+  --oc-light-surface: #f1eeee;
+  --oc-input-bg: #f8f7f7;
+  
+  /* Semantic Colors */
+  --oc-blue: #007aff;
+  --oc-blue-hover: #0056b3;
+  --oc-blue-active: #004085;
+  --oc-red: #ff3b30;
+  --oc-red-hover: #d70015;
+  --oc-red-active: #a50011;
+  --oc-green: #30d158;
+  --oc-orange: #ff9f0a;
+  --oc-orange-hover: #cc7f08;
+  --oc-orange-active: #995f06;
+  
+  /* Text Colors */
+  --oc-text-muted: #6e6e73;
+  --oc-text-secondary: #424245;
+  
+  /* Border */
+  --oc-border-warm: rgba(15, 0, 0, 0.12);
+  --oc-border-tab: #9a9898;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  body {
+    font-family: var(--font-mono);
+    background-color: var(--oc-dark);
+    color: var(--oc-light);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  /* OpenCode Theme Classes */
+  .bg-oc-dark { background-color: var(--oc-dark); }
+  .bg-oc-dark-surface { background-color: var(--oc-dark-surface); }
+  .bg-oc-light { background-color: var(--oc-light); }
+  .bg-oc-input { background-color: var(--oc-input-bg); }
+  
+  .text-oc-light { color: var(--oc-light); }
+  .text-oc-mid-gray { color: var(--oc-mid-gray); }
+  .text-oc-muted { color: var(--oc-text-muted); }
+  .text-oc-blue { color: var(--oc-blue); }
+  .text-oc-red { color: var(--oc-red); }
+  .text-oc-green { color: var(--oc-green); }
+  
+  .border-oc-warm { border-color: var(--oc-border-warm); }
+  .border-oc-gray { border-color: var(--oc-border-gray); }
+  .border-oc-tab { border-color: var(--oc-border-tab); }
+  
+  .font-mono { font-family: var(--font-mono); }
+  
+  /* Border radius */
+  .rounded-micro { border-radius: 4px; }
+  .rounded-input { border-radius: 6px; }
 }

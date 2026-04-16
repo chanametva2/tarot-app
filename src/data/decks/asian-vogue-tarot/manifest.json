@@ -1,0 +1,46 @@
+{
+  "deck_id": "deck_003_asian_vogue_tarot",
+  "slug": "asian-vogue-tarot",
+  "title": {
+    "th": "The Archetype: Asian Vogue Tarot",
+    "en": "The Archetype: Asian Vogue Tarot"
+  },
+  "subtitle": {
+    "th": "Limited Edition: The Luminous Skin Series",
+    "en": "Limited Edition: The Luminous Skin Series"
+  },
+  "author": "Chanamet Vakulchai",
+  "language_support": [
+    "th",
+    "en"
+  ],
+  "card_count": 22,
+  "structure": {
+    "major": 22,
+    "minor": 0,
+    "minor_suits": []
+  },
+  "assets": {
+    "cover_image": "images/cover.webp",
+    "back_image": "images/back.webp"
+  },
+  "naming": {
+    "major_card_id_pattern": "F00-F21",
+    "image_extension": ".webp"
+  },
+  "card_aspect_ratio": "9:16",
+  "content_layers": [
+    "card_metadata",
+    "model_profile",
+    "interpretive_meanings",
+    "editorial_identity"
+  ],
+  "concept": {
+    "th": "สำรับ Major Arcana 22 ใบ ที่ตีความไพ่ทาโรต์ผ่านเลนส์แฟชั่นชั้นสูง ความเป็นชายร่วมสมัย และสุนทรียะแบบ editorial cinematic โดยเน้น luminous skin, real human texture และ archetype ของแต่ละบุคคล",
+    "en": "A 22-card Major Arcana deck that reinterprets tarot through the lens of high fashion, contemporary Asian masculinity, and cinematic editorial aesthetics, emphasizing luminous skin, real human texture, and distinct archetypal presence."
+  },
+  "notes": {
+    "th": "โครงสร้างนี้แยก model_profile ออกจาก meanings อย่างชัดเจน เพื่อรองรับทั้งการอ่านไพ่ หน้า lookbook และ guidebook ในแอพเดียวกัน",
+    "en": "This schema keeps model_profile separate from meanings so the deck can support tarot readings, lookbook views, and future guidebook content within the same app."
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "deck_id": "deck_002_dhamma_path_tarot",
+  "spreads": [
+    {
+      "spread_id": "mindfulness_single",
+      "name": {
+        "th": "สติ",
+        "en": "Mindfulness"
+      },
+      "card_count": 1,
+      "positions": [
+        {
+          "position": 1,
+          "key": "insight",
+          "label": {
+            "th": "สิ่งที่ควรตระหนักรู้",
+            "en": "What to Be Aware of"
+          }
+        }
+      ]
+    },
+    {
+      "spread_id": "three_marks",
+      "name": {
+        "th": "ไตรลักษณ์",
+        "en": "Three Marks"
+      },
+      "card_count": 3,
+      "positions": [
+        {
+          "position": 1,
+          "key": "anicca",
+          "label": {
+            "th": "อนิจจัง",
+            "en": "Impermanence"
+          }
+        },
+        {
+          "position": 2,
+          "key": "dukkha",
+          "label": {
+            "th": "ทุกขัง",
+            "en": "Suffering"
+          }
+        },
+        {
+          "position": 3,
+          "key": "anatta",
+          "label": {
+            "th": "อนัตตา",
+            "en": "Non-self"
+          }
+        }
+      ]
+    },
+    {
+      "spread_id": "four_noble_truths",
+      "name": {
+        "th": "อริยสัจสี่",
+        "en": "Four Noble Truths"
+      },
+      "card_count": 4,
+      "positions": [
+        {
+          "position": 1,
+          "key": "dukkha",
+          "label": {
+            "th": "ทุกข์",
+            "en": "Suffering"
+          }
+        },
+        {
+          "position": 2,
+          "key": "samudaya",
+          "label": {
+            "th": "สมุทัย",
+            "en": "Cause"
+          }
+        },
+        {
+          "position": 3,
+          "key": "nirodha",
+          "label": {
+            "th": "นิโรธ",
+            "en": "Cessation"
+          }
+        },
+        {
+          "position": 4,
+          "key": "magga",
+          "label": {
+            "th": "มรรค",
+            "en": "Path"
+          }
+        }
+      ]
+    },
+    {
+      "spread_id": "panca_sila",
+      "name": {
+        "th": "เบญจศีล",
+        "en": "Five Precepts"
+      },
+      "card_count": 5,
+      "positions": [
+        {
+          "position": 1,
+          "key": "panatipata",
+          "label": {
+            "th": "ปาณาติปาตา",
+            "en": "Refrain from Killing"
+          }
+        },
+        {
+          "position": 2,
+          "key": "adinnadana",
+          "label": {
+            "th": "อทินนาทานะ",
+            "en": "Refrain from Stealing"
+          }
+        },
+        {
+          "position": 3,
+          "key": "kamesu_micchacara",
+          "label": {
+            "th": "กาเมสุมิจฉาจาระ",
+            "en": "Refrain from Misconduct"
+          }
+        },
+        {
+          "position": 4,
+          "key": "musavada",
+          "label": {
+            "th": "มุสาวาทะ",
+            "en": "Refrain from Lying"
+          }
+        },
+        {
+          "position": 5,
+          "key": "surameraya",
+          "label": {
+            "th": "สุราเมรุยะ",
+            "en": "Refrain from Intoxicants"
+          }
+        }
+      ]
+    }
+  ]
+}

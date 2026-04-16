@@ -1,0 +1,1015 @@
+[
+  {
+    "card_id": "F00",
+    "arcana": "major",
+    "image": "images/F00.webp",
+    "name": {
+      "en": "The Initiate",
+      "th": "ผู้เริ่มก้าว"
+    },
+    "number": 0,
+    "roman": "0",
+    "model_profile": {
+      "model_name": {
+        "en": "REN",
+        "th": "เร็น"
+      },
+      "model_stats": {
+        "height_cm": 183,
+        "chest_in": 36,
+        "waist_in": 29,
+        "shoe_eu": 43
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงรี (Oval face) ที่ดูละมุน",
+          "ดวงตาอัลมอนด์ที่แฝงความขี้เล่นและเปล่งประกาย",
+          "คิ้วธรรมชาติที่ไม่ได้แต่งทรงจนเกินไป",
+          "ผมสีดำขลับที่สไตลิ่งให้ดูยุ่งเล็กน้อยเหมือนเพิ่งตื่นมาพบโลกใหม่"
+        ],
+        "en": [
+          "soft oval face",
+          "playful almond eyes",
+          "natural brows",
+          "slightly tousled black hair"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Fearless Youth",
+        "th": "เร็นคือตัวแทนของพลังงานบริสุทธิ์ เขามีความกล้าแบบเด็กหนุ่มที่พร้อมจะก้าวลงจากหน้าผาโดยไม่กลัวเกรง ความมั่นใจของเขาไม่ได้เกิดจากอีโก้ แต่เกิดจากความอิสระที่ไร้ขีดจำกัด"
+      },
+      "editorial_note": {
+        "th": "ในการถ่ายทำ เร็นยืนยันที่จะไม่สวมรองเท้าและไม่เมคอัพร่างกาย เพื่อให้กล้องจับ \"Real Human Texture\" และรอยเท้าบนพื้นรันเวย์จริงๆ สื่อถึงการเริ่มต้นการเดินทางที่ปราศจากการปรุงแต่ง",
+        "en": "Ren was styled barefoot with no body makeup so the camera could capture real human texture and the imprint of his first steps on the runway."
+      }
+    },
+    "canonical_name": "The Fool"
+  },
+  {
+    "card_id": "F01",
+    "arcana": "major",
+    "image": "images/F01.webp",
+    "name": {
+      "en": "The Alchemist",
+      "th": "นักแปรธาตุ"
+    },
+    "number": 1,
+    "roman": "I",
+    "model_profile": {
+      "model_name": {
+        "en": "KAITO",
+        "th": "ไคโตะ"
+      },
+      "model_stats": {
+        "height_cm": 188,
+        "chest_in": 38,
+        "waist_in": 30,
+        "shoe_eu": 44
+      },
+      "key_features": {
+        "th": [
+          "โครงหน้าตอบยาว (Angular face) ที่ดู High-fashion มากๆ",
+          "โหนกแก้มชัดเจน",
+          "ผมสีดำสนิทถูกเซตเป๊ะแบบ Slicked-back",
+          "สันจมูกโด่งคมรับกับแนวกรามที่เฉียบคม"
+        ],
+        "en": [
+          "long angular face",
+          "defined cheekbones",
+          "slicked-back black hair",
+          "sharp nose bridge and jawline"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Technical Mastery",
+        "th": "ไคโตะสื่อถึงความนิ่ง สมาธิ และการควบคุม เขามีบุคลิกของ \"The Creator\" ที่สามารถเสกทุกอย่างให้เป็นจริงได้ด้วยความรู้และความสามารถ แววตาของเขาดูเหมือนกำลังมองเห็นโครงสร้างของจักรวาล"
+      },
+      "editorial_note": {
+        "th": "ท่าทางการวางมือของไคโตะในภาพถูกฝึกฝนมาอย่างหนักเพื่อให้ดูเหมือน \"การร่ายมนตร์\" ที่ดูนิ่งแต่ทรงพลัง การจัดแสงเน้นไปที่ดวงตาเพื่อให้สื่อถึงความฉลาดเฉลียวที่เป็นหัวใจของไพ่ใบนี้",
+        "en": "His hand choreography was trained to feel like controlled spellwork, while the lighting focused on the eyes to emphasize intelligence and mastery."
+      }
+    },
+    "canonical_name": "The Magician"
+  },
+  {
+    "card_id": "F02",
+    "arcana": "major",
+    "image": "images/F02.webp",
+    "name": {
+      "en": "The Oracle",
+      "th": "ผู้หยั่งรู้"
+    },
+    "number": 2,
+    "roman": "II",
+    "model_profile": {
+      "model_name": {
+        "en": "MIN-HO",
+        "th": "มินโฮ"
+      },
+      "model_stats": {
+        "height_cm": 184,
+        "chest_in": 35,
+        "waist_in": 28,
+        "shoe_eu": 42
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงเพชร (Diamond face) ที่ดูงดงามแบบลึกลับ",
+          "ดวงตาชั้นเดียวหลบใน (Hooded eyes) ที่ดูเหมือนซ่อนความลับบางอย่างไว้",
+          "ผมแสกกลางยาวประบ่าที่เงางาม",
+          "ผิวขาวโทนเย็น (Cool undertone)"
+        ],
+        "en": [
+          "diamond-shaped face",
+          "hooded monolid eyes",
+          "center-parted shoulder-length hair",
+          "cool-toned pale skin"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Intuitive Silence",
+        "th": "มินโฮคือนิยามของความเงียบที่ดังที่สุด เขาเป็นตัวแทนของสัญชาตญาณและโลกภายในที่ซับซ้อน เสน่ห์ของเขาคือความ \"Androgynous\" ที่ดูสง่างามและเข้าถึงยาก"
+      },
+      "editorial_note": {
+        "th": "ทีมงานใช้เทคนิค \"Soft Diffusion\" ในการถ่ายทำเพื่อสร้างออร่ารอบตัวมินโฮ นายแบบต้องคุมลมหายใจให้ช้าลงเพื่อดึงอินเนอร์ที่ดู \"นิ่งลึก\" เหมือนผิวน้ำที่ราบเรียบแต่ลึกสุดหยั่ง",
+        "en": "Soft diffusion created an aura around Min-Ho, while slow controlled breathing brought out a deep stillness like the surface of calm water."
+      }
+    },
+    "canonical_name": "The High Priestess"
+  },
+  {
+    "card_id": "F03",
+    "arcana": "major",
+    "image": "images/F03.webp",
+    "name": {
+      "en": "The Muse",
+      "th": "มิวส์"
+    },
+    "number": 3,
+    "roman": "III",
+    "model_profile": {
+      "model_name": {
+        "en": "HARU",
+        "th": "ฮารุ"
+      },
+      "model_stats": {
+        "height_cm": 185,
+        "chest_in": 39,
+        "waist_in": 31,
+        "shoe_eu": 43
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้ากลมรีที่ดูอิ่มเอิบและอบอุ่น",
+          "ริมฝีปากอิ่มธรรมชาติ",
+          "ผมสีดำหยักศกหนานุ่มที่ทิ้งตัวอย่างสวยงาม",
+          "ดวงตาที่ดูมีความเมตตาและเย้ายวนในเวลาเดียวกัน"
+        ],
+        "en": [
+          "rounded warm face",
+          "naturally full lips",
+          "soft wavy black hair",
+          "eyes that are tender and sensual at once"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Earthly Luxury",
+        "th": "ฮารุสื่อถึงความอุดมสมบูรณ์และการดูแลเอาใจใส่ เขาคือความหรูหราที่จับต้องได้และมีความเป็น \"ชีวิต\" สูงที่สุดในคอลเลกชัน สรีระที่ดูมีน้ำมีนวล (Refined Grace) ของเขาสะท้อนถึงความมั่งคั่ง"
+      },
+      "editorial_note": {
+        "th": "ฉากหลังของฮารุเต็มไปด้วยดอกไม้และวัสดุธรรมชาติที่มี Texture หลากหลาย เพื่อเสริมพลังความสร้างสรรค์และการกำเนิดใหม่ การโพสต์ท่าเน้นความผ่อนคลายแบบ \"Reclining Pose\" ที่ดูเป็นธรรมชาติที่สุด",
+        "en": "The set was filled with flowers and tactile natural textures, and the reclining pose emphasized effortless abundance and fertile grace."
+      }
+    },
+    "canonical_name": "The Empress"
+  },
+  {
+    "card_id": "F04",
+    "arcana": "major",
+    "image": "images/F04.webp",
+    "name": {
+      "en": "The Sovereign",
+      "th": "ผู้ครองอำนาจ"
+    },
+    "number": 4,
+    "roman": "IV",
+    "model_profile": {
+      "model_name": {
+        "en": "DAICHI",
+        "th": "ไดจิ"
+      },
+      "model_stats": {
+        "height_cm": 187,
+        "chest_in": 42,
+        "waist_in": 32,
+        "shoe_eu": 45
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงสี่เหลี่ยม (Square face) ที่สื่อถึงความมั่นคง",
+          "คิ้วเข้มหนาพาดตรง",
+          "สันกรามชัดเจนจนดูเหมือนสลักมาจากหิน",
+          "ผมสั้นตัดแต่งทรงเนี้ยบแบบทหาร"
+        ],
+        "en": [
+          "square face",
+          "strong straight brows",
+          "stone-cut jawline",
+          "neatly cropped military-inspired hair"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Monumental Power",
+        "th": "ไดจิคือโครงสร้างและระเบียบวินัย เขาดูเหมือนยอดเขาที่ไม่มีวันสั่นคลอน พลังงานของเขาคือความเป็นผู้นำที่เด็ดขาดแต่ยุติธรรม (Paternal energy) ซึ่งปกป้องอาณาจักรด้วยบารมี"
+      },
+      "editorial_note": {
+        "th": "การจัดแสงในใบนี้ใช้แบบ \"High Contrast\" เพื่อขับเน้นกล้ามเนื้อและโครงหน้าให้ดู \"แข็งแกร่ง\" เหมือนประติมากรรมหินอ่อน ท่าทางการนั่งบนบัลลังก์หินถูกออกแบบมาให้ดูมีอำนาจเหนือทุกสรรพสิ่ง",
+        "en": "High-contrast lighting sculpted his face and musculature like marble, and the throne pose was designed to project absolute authority."
+      }
+    },
+    "canonical_name": "The Emperor"
+  },
+  {
+    "card_id": "F05",
+    "arcana": "major",
+    "image": "images/F05.webp",
+    "name": {
+      "en": "The Sanctum",
+      "th": "ผู้พิทักษ์จารีต"
+    },
+    "number": 5,
+    "roman": "V",
+    "model_profile": {
+      "model_name": {
+        "en": "TAKAHIRO",
+        "th": "ทาคาฮิโระ"
+      },
+      "model_stats": {
+        "height_cm": 186,
+        "chest_in": 40,
+        "waist_in": 31,
+        "shoe_eu": 44
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงรีแนวกว้างที่ดูภูมิฐาน",
+          "หนังตาหนาที่ส่งผ่านความรู้สึกสุขุมและผ่านโลกมามาก",
+          "ผมสีดำขลับถูกหวีเรียบกริบไร้ที่ติ",
+          "ผิวสีนวลที่ดูสะอาดสะอ้านแบบผู้ดี"
+        ],
+        "en": [
+          "broad oval face",
+          "heavy-lidded seasoned gaze",
+          "impeccably combed black hair",
+          "clear refined skin"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Guardian of Tradition",
+        "th": "ทาคาฮิโระคือสะพานเชื่อมระหว่างโลกมนุษย์และสิ่งศักดิ์สิทธิ์ เขาดูเป็นผู้ใหญ่ที่น่าเชื่อถือ มีจริยธรรม และเป็นศูนย์รวมของความศรัทธา พลังงานของเขาไม่ใช่ความกดดัน แต่เป็น \"ความนิ่ง\" ที่ทำให้คนรอบข้างยอมรับ"
+      },
+      "editorial_note": {
+        "th": "ท่าทางการอำนวยพร (Blessing Pose) ของเขาถูกดีไซน์ให้มีความสมมาตรสูงสุด โดยเน้นการจัดแสงที่ตกลงมาจากด้านบนเหมือนแสงในวิหาร เพื่อขับเน้นความสง่างามของชุด Couture ที่ผสมผสานความเป็นนักบวชและแฟชั่นชั้นสูงเข้าด้วยกัน",
+        "en": "The blessing pose was designed for maximum symmetry, with overhead temple-like light revealing the fusion of sacred tradition and couture."
+      }
+    },
+    "canonical_name": "The Hierophant"
+  },
+  {
+    "card_id": "F06",
+    "arcana": "major",
+    "image": "images/F06.webp",
+    "name": {
+      "en": "The Union",
+      "th": "สหสัมพันธ์"
+    },
+    "number": 6,
+    "roman": "VI",
+    "model_profile": {
+      "model_name": {
+        "en": "JULIAN",
+        "th": "จูเลียน"
+      },
+      "model_stats": {
+        "height_cm": 182,
+        "chest_in": 37,
+        "waist_in": 29,
+        "shoe_eu": 42
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงหัวใจที่ดูอ่อนเยาว์",
+          "ดวงตาสดใสที่ดูจริงใจและเปล่งประกาย",
+          "คิ้วโก่งรับกับโครงหน้าอย่างพอเหมาะ",
+          "ผิวขาวเหลืองเนียนละเอียดที่ดูมีออร่า"
+        ],
+        "en": [
+          "heart-shaped youthful face",
+          "bright sincere eyes",
+          "gently arched brows",
+          "smooth luminous fair-warm skin"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Vulnerable Union",
+        "th": "จูเลียนคือตัวแทนของทางเลือกที่มาจากหัวใจ ความรัก และความสามัคคี เขามีความงามแบบ \"Gender Neutral\" ที่สื่อถึงความสมดุลระหว่างความเป็นชายและหญิงในตัวเอง แววตาของเขาดูเหมือนกำลังสื่อสารความรักที่ปราศจากเงื่อนไข"
+      },
+      "editorial_note": {
+        "th": "ฉากของจูเลียนถูกจัดแสงด้วยโทน \"Soft & Warm Glow\" เพื่อให้ผิวของเขาดูละมุนที่สุด ท่าทางการโพสต์เปิดอก (Shirtless) เน้นความผ่อนคลายและดู \"Open\" เพื่อสื่อถึงความซื่อสัตย์และการเผยตัวตนที่แท้จริง",
+        "en": "Soft warm glow lighting made his skin appear especially tender, and the open shirtless pose communicated honesty, vulnerability, and emotional availability."
+      }
+    },
+    "canonical_name": "The Lovers"
+  },
+  {
+    "card_id": "F07",
+    "arcana": "major",
+    "image": "images/F07.webp",
+    "name": {
+      "en": "The Victor",
+      "th": "ผู้พิชิต"
+    },
+    "number": 7,
+    "roman": "VII",
+    "model_profile": {
+      "model_name": {
+        "en": "CHEN",
+        "th": "เฉิน"
+      },
+      "model_stats": {
+        "height_cm": 189,
+        "chest_in": 41,
+        "waist_in": 31,
+        "shoe_eu": 45
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงสี่เหลี่ยมยาว (Long rectangular face)",
+          "ดวงตาเรียวเล็กแต่มีประกายมุ่งมั่นรุนแรง",
+          "สันจมูกโด่งยาว",
+          "ผมสั้นตัดแต่งให้มี Texture ดูทันสมัยและคล่องตัว"
+        ],
+        "en": [
+          "long rectangular face",
+          "narrow determined eyes",
+          "long defined nose bridge",
+          "modern textured short hair"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Unyielding Momentum",
+        "th": "เฉินคือพลังที่ไม่มีใครหยุดได้ เขาคือชัยชนะที่เกิดจากวินัยและเจตจำนงที่แข็งแกร่ง บุคลิกของเขาดูเหมือนแม่ทัพในสนามรบแฟชั่นที่พร้อมจะพุ่งทะยานไปข้างหน้า พลังงานของเขาดุดันและมีเป้าหมายที่ชัดเจน"
+      },
+      "editorial_note": {
+        "th": "เฉินเป็นนายแบบที่สูงที่สุดในสำรับ เพื่อให้เขาดูโดดเด่นและทรงอำนาจ (Commanding presence) ชุดที่เขาใส่มีดีเทลที่เป็น \"Metallic Accents\" เพื่อสะท้อนแสงไฟเหมือนเกราะเหล็กขณะที่เขาก้าวเดินบนรันเวย์แห่งโชคชะตา",
+        "en": "As the tallest model in the deck, Chen wore metallic accents that caught the light like armor and intensified his commanding momentum."
+      }
+    },
+    "canonical_name": "The Chariot"
+  },
+  {
+    "card_id": "F08",
+    "arcana": "major",
+    "image": "images/F08.webp",
+    "name": {
+      "en": "The Gentle Force",
+      "th": "พลังอ่อนโยน"
+    },
+    "number": 8,
+    "roman": "VIII",
+    "model_profile": {
+      "model_name": {
+        "en": "KENJI",
+        "th": "เคนจิ"
+      },
+      "model_stats": {
+        "height_cm": 188,
+        "chest_in": 41,
+        "waist_in": 31,
+        "shoe_eu": 44
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงเหลี่ยมมนที่มีความสมมาตร",
+          "มีไรหนวด (Stubble) จางๆ ที่เพิ่มความดิบแบบ Masculine",
+          "ดวงตามุ่งมั่นแต่แฝงความเมตตา",
+          "สรีระที่เต็มไปด้วยกล้ามเนื้อที่ถูกนิยามว่า \"Gentle Muscle\""
+        ],
+        "en": [
+          "balanced squared-soft face",
+          "light stubble",
+          "determined yet compassionate eyes",
+          "defined but gentle musculature"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Compassionate Force",
+        "th": "เคนจิสื่อถึงความแข็งแกร่งที่ไม่ได้เกิดจากการใช้กำลัง แต่เกิดจากความอดทนและการสยบสัญชาตญาณดิบด้วยความอ่อนโยน เขาคือภาพลักษณ์ของชายหนุ่มที่ควบคุมตัวเองได้อย่างสมบูรณ์แบบ"
+      },
+      "editorial_note": {
+        "th": "ในการถ่ายทำ เคนจิต้องโพสต์ท่าที่ดู \"นิ่ง\" ท่ามกลางสัตว์ป่า (สัญลักษณ์สิงโต) เพื่อโชว์ความ Contrast ระหว่างพละกำลังและสติสงบ การจัดแสงเน้นไปที่ลอนกล้ามเนื้อหน้าท้องและหน้าอกเพื่อให้ดูเป็นธรรมชาติและทรงพลัง",
+        "en": "He held a still pose beside the lion symbolism, while the lighting emphasized natural abdominal and chest definition without sacrificing softness."
+      }
+    },
+    "canonical_name": "Strength"
+  },
+  {
+    "card_id": "F09",
+    "arcana": "major",
+    "image": "images/F09.webp",
+    "name": {
+      "en": "The Seeker",
+      "th": "ผู้แสวงหา"
+    },
+    "number": 9,
+    "roman": "IX",
+    "model_profile": {
+      "model_name": {
+        "en": "XUAN",
+        "th": "ซวน"
+      },
+      "model_stats": {
+        "height_cm": 185,
+        "chest_in": 38,
+        "waist_in": 30,
+        "shoe_eu": 43
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าตอบยาวที่ดู High-fashion มากๆ",
+          "โหนกแก้มสูงเด่นชัด",
+          "ผมยาวสีดำถูกรวบไว้อย่างประณีต",
+          "แววตาดูครุ่นคิดและลึกซึ้งเหมือนมีความลับของจักรวาลซ่อนอยู่"
+        ],
+        "en": [
+          "long angular high-fashion face",
+          "prominent cheekbones",
+          "carefully tied long black hair",
+          "deep contemplative eyes"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Solitary Wisdom",
+        "th": "ซวนคือตัวแทนของการเดินทางภายใน การปลีกวิเวกเพื่อค้นหาความจริง เขาดูเป็นชายหนุ่มที่มี \"Soul\" ที่แก่กล้าและน่าค้นหา ความงามของเขาคือความสง่างามที่เกิดจากความสันโดษ ไม่ต้องพึ่งพาแสงสว่างจากภายนอก"
+      },
+      "editorial_note": {
+        "th": "ฉากของซวนเน้นความมืด (Low-key lighting) และใช้เพียงแสงไฟดวงเดียวสื่อถึงตะเกียงแห่งปัญญา เพื่อขับเน้นโครงสร้างใบหน้า (Bone structure) ให้ดูขรึมและลึกลับที่สุด",
+        "en": "The scene used low-key lighting and a single light source as the lamp of wisdom, sharpening his bone structure and solitary mystery."
+      }
+    },
+    "canonical_name": "The Hermit"
+  },
+  {
+    "card_id": "F10",
+    "arcana": "major",
+    "image": "images/F10.webp",
+    "name": {
+      "en": "The Turning Point",
+      "th": "จุดพลิกผัน"
+    },
+    "number": 10,
+    "roman": "X",
+    "model_profile": {
+      "model_name": {
+        "en": "RYOTA",
+        "th": "เรียวตะ"
+      },
+      "model_stats": {
+        "height_cm": 186,
+        "chest_in": 39,
+        "waist_in": 30,
+        "shoe_eu": 43
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงรีที่สมดุลอย่างเพอร์เฟกต์",
+          "ดวงตาที่เฉียงขึ้นเล็กน้อย (Upturned eyes) ดูมีจังหวะชีวิต",
+          "ผิวสีมะกอกที่ดูสุขภาพดี (Olive-warm skin tone)",
+          "ผมสั้นสไตล์เรียบหรู"
+        ],
+        "en": [
+          "perfectly balanced oval face",
+          "slightly upturned eyes",
+          "healthy olive-warm skin tone",
+          "sleek short hair"
+        ]
+      },
+      "signature_vibe": {
+        "en": "The Moment of Destiny",
+        "th": "เรียวตะคือความเคลื่อนไหวที่ไม่หยุดนิ่ง เขาดูเหมือนคนที่พร้อมจะคว้าโอกาสทุกอย่างที่เข้ามา บุคลิกของเขาดูมีความมั่นใจแต่ก็รู้จักนอบน้อมต่อโชคชะตา (Surrender and Confidence)"
+      },
+      "editorial_note": {
+        "th": "เรียวตะถูกจัดวางท่าโพสต์ท่ามกลางวงล้อจักรกลและสัญลักษณ์นักษัตร เพื่อให้ดูเหมือนเขากำลัง \"ลอยตัว\" อยู่เหนือกระแสของกาลเวลา การจัดแสงเน้นความแวววาวของโลหะทองเหลืองที่สะท้อนลงบนผิวของเขา",
+        "en": "Ryota was posed among mechanical wheels and zodiac symbols to appear suspended above time, with brass reflections gliding across his skin."
+      }
+    },
+    "canonical_name": "Wheel of Fortune"
+  },
+  {
+    "card_id": "F11",
+    "arcana": "major",
+    "image": "images/F11.webp",
+    "name": {
+      "en": "The Measure",
+      "th": "ดุลยภาพ"
+    },
+    "number": 11,
+    "roman": "XI",
+    "model_profile": {
+      "model_name": {
+        "en": "WEI",
+        "th": "เวย์"
+      },
+      "model_stats": {
+        "height_cm": 187,
+        "chest_in": 40,
+        "waist_in": 30,
+        "shoe_eu": 44
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงเพชร (Diamond-shaped face) ที่มีความสมมาตรสูงมาก",
+          "คิ้วตรงเข้มที่พาดขนานกันอย่างมีระเบียบ",
+          "ดวงตาทรงอัลมอนด์ที่ดูสงบนิ่งและมั่นคง",
+          "จมูกโด่งตรงเป็นสัน และแนวกรามที่ดูคมชัดแบบ Angular Jawline"
+        ],
+        "en": [
+          "highly symmetrical diamond-shaped face",
+          "strong straight brows",
+          "steady almond eyes",
+          "defined angular jawline"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Objective Clarity",
+        "th": "เวย์คือตัวแทนของความถูกต้องและความชัดเจนที่ไม่เอนเอียงตามอารมณ์ บุคลิกของเขาดู \"เย็นชาแต่ยุติธรรม\" แววตาที่จ้องมองตรงมายังกล้องสื่อถึงการมองเห็นความจริงที่ซ่อนอยู่หลังม่านแฟชั่น เขาคือความสมดุลที่สมบูรณ์แบบระหว่างพละกำลังและสติปัญญา"
+      },
+      "editorial_note": {
+        "th": "ในการถ่ายทำ เวย์ต้องรักษาความนิ่งของสีหน้า (Deadpan expression) ให้ดูมีพลังที่สุด ท่าทางการนั่งแบบสมมาตรบนบัลลังก์หินและการถือดาบถูกจัดวางตามองศาที่แม่นยำ เพื่อขับเน้น Vibe ของความ \"เที่ยงตรง\" ออกมาในระดับมิลลิเมตร",
+        "en": "Wei maintained a powerful deadpan expression while every angle of throne, sword, and posture was calibrated to project exacting fairness."
+      }
+    },
+    "canonical_name": "Justice"
+  },
+  {
+    "card_id": "F12",
+    "arcana": "major",
+    "image": "images/F12.webp",
+    "name": {
+      "en": "The Suspension",
+      "th": "ภาวะหยุดค้าง"
+    },
+    "number": 12,
+    "roman": "XII",
+    "model_profile": {
+      "model_name": {
+        "en": "LIAM",
+        "th": "เลียม"
+      },
+      "model_stats": {
+        "height_cm": 183,
+        "chest_in": 36,
+        "waist_in": 28,
+        "shoe_eu": 43
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงหัวใจแคบ (Narrow heart-shaped face) ที่ดูอ่อนโยนและน่านิยม",
+          "ปากบางที่ดูสงบ",
+          "ผิวสีแทนโทนเย็น (Cool light tan)",
+          "และจุดเด่นคือผมสีดำยาวสลวยที่ทิ้งตัวลงตามแรงโน้มถ่วงอย่างเป็นธรรมชาติ"
+        ],
+        "en": [
+          "narrow heart-shaped face",
+          "calm thin lips",
+          "cool light tan skin",
+          "long black hair falling naturally with gravity"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Suspended Stillness",
+        "th": "เลียมสื่อถึงการปล่อยวางและการมองโลกในมุมมองใหม่ เขาไม่ได้ถูกจองจำด้วยความเจ็บปวด แต่เขากำลัง \"ดื่มด่ำ\" กับความนิ่งสงบ อินเนอร์ของเขาดูเหมือนคนที่ค้นพบสัจธรรมบางอย่างขณะที่คนอื่นกำลังรีบเร่ง เป็นความงามที่เกิดจากการหยุดนิ่งและยอมรับ"
+      },
+      "editorial_note": {
+        "th": "เลียมต้องใช้ทักษะการคุมกล้ามเนื้อใบหน้าขั้นสูง เพราะภาพนี้ถ่ายขณะเขาถูกแขวนกลับหัวจริงๆ เพื่อให้เส้นผมและริ้วผ้าทิ้งตัวได้สมจริง แสง \"Halo-like glow\" รอบศีรษะของเขาถูกจัดวางเพื่อสื่อถึงการตื่นรู้ทางจิตวิญญาณท่ามกลางสภาวะหยุดนิ่ง",
+        "en": "Liam was photographed genuinely inverted so the hair and fabric would fall truthfully, with a halo-like glow framing his spiritual awakening."
+      }
+    },
+    "canonical_name": "The Hanged Man"
+  },
+  {
+    "card_id": "F13",
+    "arcana": "major",
+    "image": "images/F13.webp",
+    "name": {
+      "en": "The Metamorphosis",
+      "th": "การลอกคราบ"
+    },
+    "number": 13,
+    "roman": "XIII",
+    "model_profile": {
+      "model_name": {
+        "en": "AKIRA",
+        "th": "อาคิระ"
+      },
+      "model_stats": {
+        "height_cm": 188,
+        "chest_in": 39,
+        "waist_in": 30,
+        "shoe_eu": 44
+      },
+      "key_features": {
+        "th": [
+          "โครงหน้ายาวและมีโหนกแก้มสูงเด่นชัด (Prominent cheekbones)",
+          "ดวงตาที่ดูลึกและทรงพลังจนแทบจะสะกดจิตคนดู",
+          "ผมสีดำสไตลิ่งแบบ \"Wet-look\" ที่ดูดิบและจริง",
+          "แนวกรามคมกริบที่ขับให้ใบหน้าดูมีมิติระดับ High-end"
+        ],
+        "en": [
+          "long face with prominent cheekbones",
+          "deep hypnotic eyes",
+          "wet-look black hair",
+          "razor-defined jawline"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Beautiful Metamorphosis",
+        "th": "อาคิระไม่ได้สื่อถึงความน่ากลัว แต่เขาสื่อถึง \"การสิ้นสุดเพื่อเริ่มใหม่\" เขาคือพลังของการลอกคราบทางตัวตน แววตาของเขาดูเหมือนกำลังนำพาเราข้ามผ่านหมอกควันไปสู่รุ่งอรุณใหม่ เป็นความตายที่สง่างามและเต็มไปด้วยความหวังของการเกิดใหม่ (Rebirth)"
+      },
+      "editorial_note": {
+        "th": "คอนเซปต์ของอาคิระคือ \"Couture of Change\" การจัดแสงเน้นโทนสี Ash และ Wine-red เพื่อสร้างความดราม่า ฉากหลังที่เป็นกลุ่มควันสลายกลายเป็นกลีบดอกไม้สีซีดช่วยส่งเสริมบุคลิกที่ดูอันตรายแต่ก็น่าหลงใหลของเขา",
+        "en": "The couture-of-change concept used ash and wine-red tones, with smoke dissolving into pale petals to express dangerous beauty and rebirth."
+      }
+    },
+    "canonical_name": "Death"
+  },
+  {
+    "card_id": "F14",
+    "arcana": "major",
+    "image": "images/F14.webp",
+    "name": {
+      "en": "The Harmony",
+      "th": "ความกลมกลืน"
+    },
+    "number": 14,
+    "roman": "XIV",
+    "model_profile": {
+      "model_name": {
+        "en": "THANWA",
+        "th": "ธันวา"
+      },
+      "model_stats": {
+        "height_cm": 185,
+        "chest_in": 38,
+        "waist_in": 30,
+        "shoe_eu": 43
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้ายาวทรงรี (Oblong face) ที่ดูละมุนอ่อนโยน",
+          "ผิวสีน้ำผึ้งนวลตา (Honey-medium skin)",
+          "จมูกทรงเรียวสวย",
+          "และผมสีดำยาวประบ่าที่รวบไว้หลวมๆ ตรงท้ายทอยเพื่อโชว์โครงสร้างลำคอที่สง่างาม"
+        ],
+        "en": [
+          "soft oblong face",
+          "honey-medium skin",
+          "refined straight nose",
+          "loosely tied shoulder-length black hair"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Alchemical Harmony",
+        "th": "ธันวาคือตัวแทนของความพอดีและการประนีประนอม เขาดูเหมือนนักเล่นแร่แปรธาตุที่กำลังผสมผสานจิตวิญญาณเข้ากับร่างกาย แววตาของเขาดูใจดีและพร้อมที่จะเยียวยา (Healing presence) เป็นความนิ่งที่เต็มไปด้วยการเคลื่อนไหวที่ลื่นไหลเหมือนสายน้ำ"
+      },
+      "editorial_note": {
+        "th": "ท่าทางการรินของเหลวเรืองแสงระหว่างภาชนะแก้วของธันวาถูกถ่ายด้วยเทคนิค High-speed เพื่อจับจังหวะของน้ำที่ดูสมบูรณ์แบบที่สุด เสื้อผ้าผ้าไหมโปร่งแสงที่พันรอบตัวเขาช่วยสร้างความรู้สึกเบาสบายเหมือนอากาศท่ามกลางแสงพระอาทิตย์ขึ้น",
+        "en": "High-speed capture preserved the perfect arc of luminous liquid between the vessels, while translucent silk added an airy healing grace."
+      }
+    },
+    "canonical_name": "Temperance"
+  },
+  {
+    "card_id": "F15",
+    "arcana": "major",
+    "image": "images/F15.webp",
+    "name": {
+      "en": "The Temptation",
+      "th": "สิ่งยั่วยวน"
+    },
+    "number": 15,
+    "roman": "XV",
+    "model_profile": {
+      "model_name": {
+        "en": "ZANE",
+        "th": "เซน"
+      },
+      "model_stats": {
+        "height_cm": 187,
+        "chest_in": 43,
+        "waist_in": 32,
+        "shoe_eu": 45
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้ากว้างที่ดูดุดันและแข็งแกร่ง (Broad angular face)",
+          "ดวงตามีพลังดึงดูดที่ดู \"ร้าย\" อย่างมีเสน่ห์",
+          "ผมสั้นตัดแต่งเนี้ยบเงางาม",
+          "และสรีระที่เต็มไปด้วยกล้ามเนื้อที่ชัดเจนที่สุดในสำรับ (Striking muscular physique)"
+        ],
+        "en": [
+          "broad angular face",
+          "dangerously magnetic eyes",
+          "polished close-cut hair",
+          "the most striking muscular physique in the deck"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Magnetic Temptation",
+        "th": "เซนคือความปรารถนาและกิเลสที่ยากจะถอนตัว เขาไม่ได้ดูเลวร้าย แต่เขาดู \"เย้ายวนจนน่ากลัว\" พลังงานของเขาดึงดูดผู้คนให้เข้าหาเหมือนแม่เหล็ก เป็นตัวแทนของอำนาจมืดและความยึดติดที่หรูหรา แววตาของเขาดูเหมือนกำลังทดสอบความอดทนของผู้ที่จ้องมอง"
+      },
+      "editorial_note": {
+        "th": "การจัดแสงในใบนี้ใช้เทคนิค \"Low-key\" สลับกับไฟนีออนสีแดงเพื่อให้เกิดเงารูปเขา (Horn-shadow) ที่ผนังด้านหลัง โซ่ที่พันรอบตัวเขาถูกดีไซน์มาให้ดูเป็นเครื่องประดับราคาแพงมากกว่าเครื่องพันธนาการ เพื่อสื่อถึง \"กรงขังที่สวยงาม\"",
+        "en": "Low-key lighting with red neon created a horned shadow, while the chains were styled as luxury adornment to suggest a beautiful prison."
+      }
+    },
+    "canonical_name": "The Devil"
+  },
+  {
+    "card_id": "F16",
+    "arcana": "major",
+    "image": "images/F16.webp",
+    "name": {
+      "en": "The Rupture",
+      "th": "รอยแตก"
+    },
+    "number": 16,
+    "roman": "XVI",
+    "model_profile": {
+      "model_name": {
+        "en": "HYEONG",
+        "th": "ฮยอง"
+      },
+      "model_stats": {
+        "height_cm": 186,
+        "chest_in": 40,
+        "waist_in": 31,
+        "shoe_eu": 44
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงสี่เหลี่ยมผืนผ้าที่ดูโมเดิร์น",
+          "ดวงตาที่กลมโตและดูตื่นตัว (Wide alert eyes)",
+          "ผมสีดำยาวปานกลางที่ดูยุ่งเหยิงจากลมพายุ (Windswept)",
+          "และแนวกรามที่ดูเกร็งเล็กน้อยเพื่อสื่อถึงอารมณ์ที่พุ่งพล่าน"
+        ],
+        "en": [
+          "modern rectangular face",
+          "wide alert eyes",
+          "wind-tossed medium black hair",
+          "slightly tense jawline"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Radical Awakening",
+        "th": "ฮยองคือการทำลายเพื่อสร้างสรรค์ เขาคือช่วงเวลาที่ความจริงพุ่งเข้าหาเราเหมือนสายฟ้า อินเนอร์ของเขาดู \"ตื่นรู้\" ท่ามกลางความวุ่นวาย เป็นความงามที่เกิดจากความตกใจและการตระหนักรู้ว่าโครงสร้างเก่าๆ ต้องพังทลายลงเพื่อให้สิ่งใหม่เกิดขึ้น"
+      },
+      "editorial_note": {
+        "th": "ภาพของฮยองมีความเป็น \"Cinematic Action\" สูงที่สุด ทีมงานใช้เทคนิค \"Debris in motion\" เพื่อทำให้เศษกระจกและโครงสร้างเหล็กดูเหมือนหยุดนิ่งในอากาศรอบตัวเขา การสไตลิ่งผ้าคลุมที่พริ้วไหวช่วยเพิ่มความไดนามิกให้กับภาพการล่มสลายที่หรูหราใบนี้",
+        "en": "The set leaned into cinematic action, freezing debris and fractured structures in motion as the cloak amplified the elegance of collapse."
+      }
+    },
+    "canonical_name": "The Tower"
+  },
+  {
+    "card_id": "F17",
+    "arcana": "major",
+    "image": "images/F17.webp",
+    "name": {
+      "en": "The Radiance",
+      "th": "แสงเยียวยา"
+    },
+    "number": 17,
+    "roman": "XVII",
+    "model_profile": {
+      "model_name": {
+        "en": "LINH",
+        "th": "ลินห์"
+      },
+      "model_stats": {
+        "height_cm": 184,
+        "chest_in": 37,
+        "waist_in": 29,
+        "shoe_eu": 43
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงเพชรที่ดูนุ่มนวล (Soft diamond-shaped face)",
+          "ดวงตาสว่างใสดูมีความหวัง",
+          "คิ้วตรงบางเบา",
+          "จมูกเรียวได้รูป",
+          "และผมสีดำหยักศกที่ปัดไปด้านหลังอย่างเป็นธรรมชาติ ผิวของเขาดูเปล่งปลั่งในโทน Light-medium Neutral"
+        ],
+        "en": [
+          "soft diamond-shaped face",
+          "bright hopeful eyes",
+          "light straight brows",
+          "naturally swept-back wavy black hair"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Celestial Healing",
+        "th": "ลินห์คือความสงบหลังจากพายุผ่านพ้น เขาคือตัวแทนของความหวังและการเริ่มต้นใหม่ที่บริสุทธิ์ อินเนอร์ของเขาดู \"เปิดกว้าง\" (Openness) และจริงใจ เหมือนดวงดาวที่ส่องสว่างนำทางในคืนที่มืดมิด เป็นความงามที่ดูอ่อนโยนแต่ยั่งยืน"
+      },
+      "editorial_note": {
+        "th": "ฉากของลินห์ถูกถ่ายทำริมน้ำนิ่งเพื่อให้เกิดเงาสะท้อนที่สมบูรณ์แบบ แสงไฟถูกจัดให้ดูเหมือน \"ละอองดาว\" (Star-light) ที่ตกกระทบผิวหนัง เพื่อสร้าง Real Human Skin Texture ที่ดูฉ่ำวาวและมีออร่าโดยไม่ต้องพึ่งฟิลเตอร์",
+        "en": "Shot beside still water for a perfect reflection, the lighting was designed like stardust on skin to create aura without artificial smoothing."
+      }
+    },
+    "canonical_name": "The Star"
+  },
+  {
+    "card_id": "F18",
+    "arcana": "major",
+    "image": "images/F18.webp",
+    "name": {
+      "en": "The Veil",
+      "th": "ม่านจันทร์"
+    },
+    "number": 18,
+    "roman": "XVIII",
+    "model_profile": {
+      "model_name": {
+        "en": "SORA",
+        "th": "โซระ"
+      },
+      "model_stats": {
+        "height_cm": 182,
+        "chest_in": 36,
+        "waist_in": 28,
+        "shoe_eu": 42
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงรีแคบ (Narrow oval face) ที่ดูน่าค้นหา",
+          "ดวงตาสะท้อนแสงที่ดูเหมือนกำลังมองเข้าไปในจิตใต้สำนึก",
+          "ผมสีดำยาวเปียกชื้น (Damp look) ที่ตกลงมาล้อมกรอบหน้า",
+          "และแนวกรามที่ดูบอบบางแต่คมชัด"
+        ],
+        "en": [
+          "narrow oval face",
+          "reflective inward-looking eyes",
+          "damp black hair framing the face",
+          "delicate yet defined jawline"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Subconscious Mystery",
+        "th": "โโซระคือความงามที่คลุมเครือและชวนฝัน เขาเป็นตัวแทนของสัญชาตญาณและความลึกลับที่ซ่อนอยู่ภายใต้ใบหน้าเรียบเฉย แววตาของเขาดูเหมือนมีเรื่องราวมากมายที่ไม่ได้พูดออกมา (Hidden truth) เป็นความงามแบบ Uncanny ที่ดึงดูดให้คนจ้องมองเพื่อหาคำตอบ"
+      },
+      "editorial_note": {
+        "th": "เพื่อสร้างบรรยากาศ \"Dreamlike\" ทีมงานใช้เทคนิคถ่ายผ่านม่านหมอกจางๆ และแสงจันทร์เทียมสีเงิน-ม่วง (Silver-blue & Violet palette) ผมเปียกชื้นของโซระช่วยเพิ่มความรู้สึก \"Wet & Reflective\" สื่อถึงอารมณ์ที่ลื่นไหลและเปลี่ยนแปลงได้ตลอดเวลา",
+        "en": "Mist filtration and silver-violet moonlight created a dreamlike atmosphere, while damp hair amplified emotional fluidity and reflection."
+      }
+    },
+    "canonical_name": "The Moon"
+  },
+  {
+    "card_id": "F19",
+    "arcana": "major",
+    "image": "images/F19.webp",
+    "name": {
+      "en": "The Illumination",
+      "th": "การส่องประกาย"
+    },
+    "number": 19,
+    "roman": "XIX",
+    "model_profile": {
+      "model_name": {
+        "en": "ARUN",
+        "th": "อรุณ"
+      },
+      "model_stats": {
+        "height_cm": 185,
+        "chest_in": 40,
+        "waist_in": 31,
+        "shoe_eu": 43
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าทรงสี่เหลี่ยมมน (Rounded-square face) ที่ดูเป็นมิตรและทรงพลัง",
+          "ดวงตาเป็นประกายที่ดูมีความสุขอย่างแท้จริง",
+          "ผมสั้นจัดแต่งทรงให้ดูมีวอลลุ่มธรรมชาติ",
+          "และจุดเด่นที่สุดคือ \"ผิวสีแทนทอง\" (Golden-warm skin tone) ที่ดูสุขภาพดีที่สุดในสำรับ"
+        ],
+        "en": [
+          "rounded-square face",
+          "joy-filled sparkling eyes",
+          "naturally voluminous short hair",
+          "golden-warm sunlit skin"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Infinite Vitality",
+        "th": "อรุณคือศูนย์กลางของพลังงานบวกและความสำเร็จ เขาคือรอยยิ้มที่สว่างไสวที่สุดในรันเวย์ บุคลิกของเขาสื่อถึงความชัดเจน ความอบอุ่น และความมั่นใจที่เต็มเปี่ยมไปด้วยชีวิตชีวา เป็นตัวแทนของชัยชนะที่ได้รับแสงสว่างนำทางเสมอ"
+      },
+      "editorial_note": {
+        "th": "การถ่ายทำของอรุณจัดขึ้นกลางแจ้งภายใต้แสงอาทิตย์จริง (Cinematic Sunlight) เพื่อให้ได้เงาที่เป็นธรรมชาติและไฮไลท์บนกล้ามเนื้อที่ดู \"Luminous\" ชุดผ้าไหมสีขาวปักดิ้นทองช่วยส่งเสริมให้เขาดูเหมือนเทพอพอลโลในเวอร์ชันเอเชียร่วมสมัย",
+        "en": "Arun was photographed outdoors in real cinematic sunlight, with white silk and gold embroidery amplifying his luminous vitality."
+      }
+    },
+    "canonical_name": "The Sun"
+  },
+  {
+    "card_id": "F20",
+    "arcana": "major",
+    "image": "images/F20.webp",
+    "name": {
+      "en": "The Awakening",
+      "th": "การตื่นรู้"
+    },
+    "number": 20,
+    "roman": "XX",
+    "model_profile": {
+      "model_name": {
+        "en": "JIN",
+        "th": "จิน"
+      },
+      "model_stats": {
+        "height_cm": 188,
+        "chest_in": 41,
+        "waist_in": 31,
+        "shoe_eu": 44
+      },
+      "key_features": {
+        "th": [
+          "โหนกแก้มสูงบนใบหน้าทรงรี (High-cheekboned oval face)",
+          "ดวงตาที่มองขึ้นด้านบนด้วยความศรัทธาและตื่นรู้",
+          "คิ้วตรงเข้มชัดเจน",
+          "และแนวกรามที่ดูแข็งแกร่งรับกับลำคอที่ระหง"
+        ],
+        "en": [
+          "high-cheekboned oval face",
+          "upward-looking awakened eyes",
+          "clear strong brows",
+          "defined jawline with long neck"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Higher Calling",
+        "th": "จินคือการเกิดใหม่และการหลุดพ้นจากพันธนาการเก่าๆ เขาดูเหมือนคนที่เพิ่งตื่นจากความฝันยาวนานเพื่อมารับภารกิจที่ยิ่งใหญ่กว่าเดิม อินเนอร์ของเขาเต็มไปด้วย \"Realization\" หรือการตระหนักรู้ เป็นความงามที่ดูศักดิ์สิทธิ์และอยู่เหนือการกาลเวลา"
+      },
+      "editorial_note": {
+        "th": "จินต้องโพสต์ท่าในลักษณะ \"Levitation\" หรือการลอยตัวขึ้นสู่แสงเบื้องบน ผ้าคลุมสีเงินขาวที่พริ้วไหวรอบตัวเขาถูกเซตให้ดูเหมือนปีกที่กำลังจะสยายออก การจัดแสงแบบ \"Heavenly Lighting\" ช่วยขับให้โครงหน้าของเขาดูโดดเด่นและมีพลังดั่งภาพวาดปูนปั้น",
+        "en": "Jin was posed in levitation toward an upper light source, with silver-white drapery arranged like emerging wings beneath heavenly lighting."
+      }
+    },
+    "canonical_name": "Judgement"
+  },
+  {
+    "card_id": "F21",
+    "arcana": "major",
+    "image": "images/F21.webp",
+    "name": {
+      "en": "The Completion",
+      "th": "ความสมบูรณ์"
+    },
+    "number": 21,
+    "roman": "XXI",
+    "model_profile": {
+      "model_name": {
+        "en": "ELIAS",
+        "th": "เอเลียส"
+      },
+      "model_stats": {
+        "height_cm": 189,
+        "chest_in": 40,
+        "waist_in": 30,
+        "shoe_eu": 45
+      },
+      "key_features": {
+        "th": [
+          "ใบหน้าที่สมมาตรสมบูรณ์แบบ (Symmetrical face)",
+          "ดวงตาที่ดูสงบนิ่งและเปี่ยมด้วยความมั่นใจของผู้ชนะ",
+          "ผมยาวประบ่าที่หวีเรียบไปด้านหลังอย่างประณีต",
+          "ผิวสีทองนวลที่ดูแพงและหรูหรา"
+        ],
+        "en": [
+          "perfectly symmetrical face",
+          "calm victorious eyes",
+          "carefully brushed shoulder-length hair",
+          "luxurious soft golden skin"
+        ]
+      },
+      "signature_vibe": {
+        "en": "Absolute Completion",
+        "th": "เอเลียสคือบทสรุปของทุกสิ่ง เขาคือจุดที่ความพยายามทั้งหมดมาบรรจบกับความสำเร็จที่ยั่งยืน บุคลิกของเขาดู \"Wholeness\" หรือมีความสมบูรณ์ในตัวเอง ไม่ต้องการสิ่งใดมาเติมแต่ง เป็นตัวแทนของจักรวาลที่รวมเป็นหนึ่งเดียวกับมนุษย์ได้อย่างไร้รอยต่อ"
+      },
+      "editorial_note": {
+        "th": "ในฐานะใบสุดท้าย เอเลียสถูกจัดวางให้อยู่ในวงล้อมของ \"Wreath\" ที่ทำจากโลหะทองคำและหินหยก (Teal & Gold palette) ท่าโพสต์ของเขาดูเหมือนระบำแห่งจักรวาลที่หยุดนิ่งในชั่วขณะที่สมบูรณ์แบบที่สุด เป็นการปิดท้ายคอลเลกชันอย่างยิ่งใหญ่",
+        "en": "As the closing image, Elias was framed within a gold-and-jade wreath, his cosmic pose suspended at the point of absolute completion."
+      }
+    },
+    "canonical_name": "The World"
+  }
+]

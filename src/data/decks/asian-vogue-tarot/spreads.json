@@ -1,0 +1,107 @@
+{
+  "deck_id": "deck_003_asian_vogue_tarot",
+  "spreads": [
+    {
+      "spread_id": "editorial_single",
+      "name": {
+        "th": "กระจกเงาแห่งตัวตน",
+        "en": "Mirror of Self"
+      },
+      "card_count": 1,
+      "positions": [
+        {
+          "position": 1,
+          "key": "mirror",
+          "label": {
+            "th": "พลังที่กำลังสะท้อนตัวคุณ",
+            "en": "The energy mirroring you now"
+          }
+        }
+      ]
+    },
+    {
+      "spread_id": "runway_triad",
+      "name": {
+        "th": "สามจังหวะแห่งรันเวย์",
+        "en": "Runway of Becoming"
+      },
+      "card_count": 3,
+      "positions": [
+        {
+          "position": 1,
+          "key": "persona",
+          "label": {
+            "th": "ภาพลักษณ์ที่คุณสวมอยู่",
+            "en": "The persona you are wearing"
+          }
+        },
+        {
+          "position": 2,
+          "key": "desire",
+          "label": {
+            "th": "แรงขับที่อยู่ข้างใน",
+            "en": "The desire moving beneath"
+          }
+        },
+        {
+          "position": 3,
+          "key": "becoming",
+          "label": {
+            "th": "ตัวตนที่กำลังก่อตัว",
+            "en": "The self you are becoming"
+          }
+        }
+      ]
+    },
+    {
+      "spread_id": "luminous_five",
+      "name": {
+        "th": "Luminous Skin Spread",
+        "en": "Luminous Skin Spread"
+      },
+      "card_count": 5,
+      "positions": [
+        {
+          "position": 1,
+          "key": "surface",
+          "label": {
+            "th": "สิ่งที่โลกมองเห็น",
+            "en": "What the world sees"
+          }
+        },
+        {
+          "position": 2,
+          "key": "shadow",
+          "label": {
+            "th": "สิ่งที่ซ่อนอยู่ใต้ผิว",
+            "en": "What lives beneath the skin"
+          }
+        },
+        {
+          "position": 3,
+          "key": "magnetism",
+          "label": {
+            "th": "พลังดึงดูดของคุณ",
+            "en": "Your magnetism"
+          }
+        },
+        {
+          "position": 4,
+          "key": "lesson",
+          "label": {
+            "th": "บทเรียนของช่วงเวลานี้",
+            "en": "The lesson of this moment"
+          }
+        },
+        {
+          "position": 5,
+          "key": "embodiment",
+          "label": {
+            "th": "สิ่งที่ควรเป็นตัวตนอย่างเต็มที่",
+            "en": "What you are meant to embody"
+          }
+        }
+      ]
+    }
+  ]
+}

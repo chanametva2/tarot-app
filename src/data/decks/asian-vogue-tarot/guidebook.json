@@ -1,0 +1,1877 @@
+{
+  "deck_id": "deck_003_asian_vogue_tarot",
+  "slug": "the-archetype-asian-vogue-tarot-guidebook",
+  "title": {
+    "en": "The Archetype: Asian Vogue Tarot — Guidebook Data",
+    "th": "The Archetype: Asian Vogue Tarot — ข้อมูลคู่มือการอ่าน"
+  },
+  "language_support": [
+    "th",
+    "en"
+  ],
+  "entry_count": 22,
+  "structure": {
+    "major": 22,
+    "minor": 0
+  },
+  "content_layers": [
+    "archetype",
+    "symbolism",
+    "upright",
+    "reversed",
+    "oracle_message",
+    "fashion_caption",
+    "interpretive_note",
+    "reading_focus"
+  ],
+  "entries": [
+    {
+      "card_id": "F00",
+      "name": {
+        "en": "The Initiate",
+        "th": "ผู้เริ่มก้าว"
+      },
+      "number": 0,
+      "roman": "0",
+      "guidebook": {
+        "archetype": {
+          "en": "The Fearless Initiate",
+          "th": "ผู้เริ่มต้นอย่างไร้ความหวาดกลัว"
+        },
+        "symbolism": {
+          "en": [
+            "bare feet",
+            "small companion",
+            "open horizon",
+            "soft white drapery",
+            "first step into the unknown"
+          ],
+          "th": [
+            "เท้าเปล่า",
+            "สหายตัวน้อย",
+            "ขอบฟ้าเปิดกว้าง",
+            "ผ้าขาวพลิ้วไหว",
+            "ก้าวแรกสู่สิ่งที่ยังไม่รู้"
+          ]
+        },
+        "upright": {
+          "en": [
+            "A new path opens through trust rather than certainty.",
+            "Freedom, spontaneity, and openness become your greatest strength.",
+            "This is the beginning of a journey that requires faith in becoming.",
+            "Move lightly, but move sincerely."
+          ],
+          "th": [
+            "เส้นทางใหม่กำลังเปิดออกผ่านความไว้วางใจมากกว่าความแน่ใจ",
+            "อิสรภาพ ความเป็นธรรมชาติ และใจที่เปิดกว้างคือพลังหลักของคุณตอนนี้",
+            "นี่คือจุดเริ่มต้นของการเดินทางที่ต้องอาศัยศรัทธาต่อการเติบโต",
+            "ก้าวอย่างเบา แต่ก้าวอย่างจริงใจ"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Naivety or avoidance may be disguised as freedom.",
+            "You may fear commitment more than you fear the unknown.",
+            "Carelessness can blur the beauty of a genuine beginning.",
+            "Pause before leaping if you are acting only to escape."
+          ],
+          "th": [
+            "ความไร้เดียงสาหรือการเลี่ยงรับผิดชอบอาจปลอมตัวเป็นอิสรภาพ",
+            "คุณอาจกลัวการผูกพันมากกว่าสิ่งไม่รู้เสียอีก",
+            "ความประมาทอาจทำให้ความงามของการเริ่มต้นเลือนลง",
+            "หยุดก่อนกระโดด หากสิ่งที่ทำเป็นเพียงการหนี"
+          ]
+        },
+        "oracle_message": {
+          "en": "Your first step does not need perfection. It needs truth.",
+          "th": "ก้าวแรกของคุณไม่จำเป็นต้องสมบูรณ์แบบ แค่จริงแท้ก็พอ"
+        },
+        "fashion_caption": {
+          "en": "Youth, untouched and unafraid.",
+          "th": "เยาว์วัยที่ยังไม่ถูกแต่งเติม และไม่รู้จักความกลัว"
+        },
+        "interpretive_note": {
+          "en": "This card channels the fearless initiate. Your first step does not need perfection. It needs truth.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้เริ่มต้นอย่างไร้ความหวาดกลัว ก้าวแรกของคุณไม่จำเป็นต้องสมบูรณ์แบบ แค่จริงแท้ก็พอ"
+        },
+        "reading_focus": {
+          "en": [
+            "A new path opens through trust rather than certainty.",
+            "Freedom, spontaneity, and openness become your greatest strength.",
+            "This is the beginning of a journey that requires faith in becoming."
+          ],
+          "th": [
+            "เส้นทางใหม่กำลังเปิดออกผ่านความไว้วางใจมากกว่าความแน่ใจ",
+            "อิสรภาพ ความเป็นธรรมชาติ และใจที่เปิดกว้างคือพลังหลักของคุณตอนนี้",
+            "นี่คือจุดเริ่มต้นของการเดินทางที่ต้องอาศัยศรัทธาต่อการเติบโต"
+          ]
+        }
+      },
+      "canonical_name": "The Fool"
+    },
+    {
+      "card_id": "F01",
+      "name": {
+        "en": "The Alchemist",
+        "th": "นักแปรธาตุ"
+      },
+      "number": 1,
+      "roman": "I",
+      "guidebook": {
+        "archetype": {
+          "en": "The Ritual Architect",
+          "th": "ผู้สร้างความจริงผ่านพิธีแห่งเจตจำนง"
+        },
+        "symbolism": {
+          "en": [
+            "ritual circle",
+            "crystal wand",
+            "cup and blade",
+            "gold chains",
+            "manifesting posture"
+          ],
+          "th": [
+            "วงพิธี",
+            "คทาผลึก",
+            "ถ้วยและดาบ",
+            "สร้อยทอง",
+            "ท่าทางแห่งการเนรมิต"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Skill, focus, and execution align.",
+            "You have the tools to turn vision into form.",
+            "This is mastery through concentration, not display.",
+            "Intent becomes reality when embodied with discipline."
+          ],
+          "th": [
+            "ทักษะ สมาธิ และการลงมือทำกำลังสอดประสานกัน",
+            "คุณมีเครื่องมือพอที่จะเปลี่ยนวิสัยทัศน์ให้เป็นรูปธรรม",
+            "นี่คือความชำนาญที่เกิดจากสมาธิ ไม่ใช่การโชว์พลัง",
+            "เจตนาจะกลายเป็นความจริงเมื่อมีวินัยมารองรับ"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Manipulation, performance, or ego may distort your power.",
+            "You may know what to do but hesitate to fully commit.",
+            "Scattered focus weakens manifestation.",
+            "Do not confuse symbolism with substance."
+          ],
+          "th": [
+            "การชักใย การแสดง หรืออีโก้อาจบิดเบือนพลังของคุณ",
+            "คุณอาจรู้ว่าต้องทำอะไร แต่ยังไม่ยอมทุ่มตัวเต็มที่",
+            "สมาธิที่กระจัดกระจายทำให้พลังสร้างจริงอ่อนลง",
+            "อย่าสับสนระหว่างสัญลักษณ์กับเนื้อแท้"
+          ]
+        },
+        "oracle_message": {
+          "en": "Create with precision. What you touch can take form.",
+          "th": "สร้างด้วยความแม่นยำ สิ่งที่คุณแตะต้องมีศักยภาพจะเป็นจริง"
+        },
+        "fashion_caption": {
+          "en": "Power, tailored to exact intention.",
+          "th": "อำนาจที่ถูกตัดเย็บตามเจตจำนงอย่างแม่นตรง"
+        },
+        "interpretive_note": {
+          "en": "This card channels the ritual architect. Create with precision. What you touch can take form.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้สร้างความจริงผ่านพิธีแห่งเจตจำนง สร้างด้วยความแม่นยำ สิ่งที่คุณแตะต้องมีศักยภาพจะเป็นจริง"
+        },
+        "reading_focus": {
+          "en": [
+            "Skill, focus, and execution align.",
+            "You have the tools to turn vision into form.",
+            "This is mastery through concentration, not display."
+          ],
+          "th": [
+            "ทักษะ สมาธิ และการลงมือทำกำลังสอดประสานกัน",
+            "คุณมีเครื่องมือพอที่จะเปลี่ยนวิสัยทัศน์ให้เป็นรูปธรรม",
+            "นี่คือความชำนาญที่เกิดจากสมาธิ ไม่ใช่การโชว์พลัง"
+          ]
+        }
+      },
+      "canonical_name": "The Magician"
+    },
+    {
+      "card_id": "F02",
+      "name": {
+        "en": "The Oracle",
+        "th": "ผู้หยั่งรู้"
+      },
+      "number": 2,
+      "roman": "II",
+      "guidebook": {
+        "archetype": {
+          "en": "The Silent Oracle",
+          "th": "ผู้รู้ผ่านความเงียบ"
+        },
+        "symbolism": {
+          "en": [
+            "moon phases",
+            "sacred book",
+            "black and white pillars",
+            "veil",
+            "reflective water"
+          ],
+          "th": [
+            "ข้างขึ้นข้างแรม",
+            "คัมภีร์ศักดิ์สิทธิ์",
+            "เสาดำและขาว",
+            "ม่านบาง",
+            "ผิวน้ำสะท้อน"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Inner knowing is stronger than outer noise.",
+            "Mystery, intuition, and restraint guide the next step.",
+            "Listen beneath words, beneath performance, beneath fear.",
+            "Wisdom may arrive as silence rather than instruction."
+          ],
+          "th": [
+            "ความรู้จากภายในดังชัดกว่าสิ่งรบกวนภายนอก",
+            "ความลึกลับ สัญชาตญาณ และความรู้จักยับยั้ง จะนำทางก้าวถัดไป",
+            "จงฟังสิ่งที่อยู่ใต้คำพูด ใต้การแสดงออก ใต้ความกลัว",
+            "ปัญญาอาจมาถึงในรูปของความเงียบ ไม่ใช่คำสั่ง"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "You may be ignoring your intuition or hiding from the truth it reveals.",
+            "Secrets, confusion, or emotional distance cloud perception.",
+            "Not every silence is wisdom; some silences are avoidance.",
+            "Return to stillness without dissociating from reality."
+          ],
+          "th": [
+            "คุณอาจกำลังเพิกเฉยต่อสัญชาตญาณ หรือหนีจากความจริงที่มันเผยออกมา",
+            "ความลับ ความสับสน หรือระยะห่างทางอารมณ์กำลังทำให้การรับรู้พร่ามัว",
+            "ไม่ใช่ทุกความเงียบจะเป็นปัญญา บางครั้งมันคือการหลีกเลี่ยง",
+            "กลับสู่ความนิ่งโดยไม่ตัดตัวเองออกจากความจริง"
+          ]
+        },
+        "oracle_message": {
+          "en": "Hold still long enough for the hidden to speak.",
+          "th": "นิ่งให้นานพอ จนสิ่งที่ซ่อนอยู่เริ่มพูดกับคุณ"
+        },
+        "fashion_caption": {
+          "en": "Mystery wears silk and says nothing.",
+          "th": "ความลึกลับสวมผ้าไหม และไม่เอ่ยคำใด"
+        },
+        "interpretive_note": {
+          "en": "This card channels the silent oracle. Hold still long enough for the hidden to speak.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้รู้ผ่านความเงียบ นิ่งให้นานพอ จนสิ่งที่ซ่อนอยู่เริ่มพูดกับคุณ"
+        },
+        "reading_focus": {
+          "en": [
+            "Inner knowing is stronger than outer noise.",
+            "Mystery, intuition, and restraint guide the next step.",
+            "Listen beneath words, beneath performance, beneath fear."
+          ],
+          "th": [
+            "ความรู้จากภายในดังชัดกว่าสิ่งรบกวนภายนอก",
+            "ความลึกลับ สัญชาตญาณ และความรู้จักยับยั้ง จะนำทางก้าวถัดไป",
+            "จงฟังสิ่งที่อยู่ใต้คำพูด ใต้การแสดงออก ใต้ความกลัว"
+          ]
+        }
+      },
+      "canonical_name": "The High Priestess"
+    },
+    {
+      "card_id": "F03",
+      "name": {
+        "en": "The Muse",
+        "th": "มิวส์"
+      },
+      "number": 3,
+      "roman": "III",
+      "guidebook": {
+        "archetype": {
+          "en": "The Garden of Abundance",
+          "th": "สวนแห่งความอุดมสมบูรณ์"
+        },
+        "symbolism": {
+          "en": [
+            "flowers",
+            "fruit harvest",
+            "embroidered robes",
+            "garden estate",
+            "reclining throne"
+          ],
+          "th": [
+            "ดอกไม้",
+            "ผลผลิตอุดมสมบูรณ์",
+            "อาภรณ์ปักลาย",
+            "สวนและคฤหาสน์",
+            "ที่นั่งเอนกาย"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Beauty, pleasure, and creativity want embodiment.",
+            "Nourishment flows through care, receptivity, and self-worth.",
+            "This is abundance that grows from tenderness, not urgency.",
+            "Let what you love become well-tended."
+          ],
+          "th": [
+            "ความงาม ความรื่นรมย์ และความสร้างสรรค์กำลังต้องการการมีตัวตนจริง",
+            "การหล่อเลี้ยงเกิดจากความเอาใจใส่ การเปิดรับ และคุณค่าที่คุณมอบให้ตนเอง",
+            "นี่คือความอุดมสมบูรณ์ที่เติบโตจากความอ่อนโยน ไม่ใช่ความเร่งรีบ",
+            "ปล่อยให้สิ่งที่คุณรักได้รับการดูแลอย่างดี"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Neglect, depletion, or overindulgence may distort abundance.",
+            "You may be starving your creative or emotional body while decorating the surface.",
+            "Comparison can poison pleasure.",
+            "Restore your connection to what truly nourishes."
+          ],
+          "th": [
+            "การละเลย ความพร่อง หรือการเสพเกินพอดี อาจบิดเบือนความอุดมสมบูรณ์",
+            "คุณอาจกำลังปล่อยให้ร่างสร้างสรรค์หรือใจของตัวเองหิวโหย ขณะประดับเพียงพื้นผิว",
+            "การเปรียบเทียบทำลายความรื่นรมย์ได้ง่าย",
+            "กลับไปเชื่อมกับสิ่งที่หล่อเลี้ยงคุณจริงๆ"
+          ]
+        },
+        "oracle_message": {
+          "en": "What you cherish will flourish under devoted care.",
+          "th": "สิ่งที่คุณทะนุถนอม จะงอกงามภายใต้การดูแลที่อุทิศจริง"
+        },
+        "fashion_caption": {
+          "en": "Luxury, rooted in life.",
+          "th": "ความหรูหราที่หยั่งรากอยู่ในชีวิต"
+        },
+        "interpretive_note": {
+          "en": "This card channels the garden of abundance. What you cherish will flourish under devoted care.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของสวนแห่งความอุดมสมบูรณ์ สิ่งที่คุณทะนุถนอม จะงอกงามภายใต้การดูแลที่อุทิศจริง"
+        },
+        "reading_focus": {
+          "en": [
+            "Beauty, pleasure, and creativity want embodiment.",
+            "Nourishment flows through care, receptivity, and self-worth.",
+            "This is abundance that grows from tenderness, not urgency."
+          ],
+          "th": [
+            "ความงาม ความรื่นรมย์ และความสร้างสรรค์กำลังต้องการการมีตัวตนจริง",
+            "การหล่อเลี้ยงเกิดจากความเอาใจใส่ การเปิดรับ และคุณค่าที่คุณมอบให้ตนเอง",
+            "นี่คือความอุดมสมบูรณ์ที่เติบโตจากความอ่อนโยน ไม่ใช่ความเร่งรีบ"
+          ]
+        }
+      },
+      "canonical_name": "The Empress"
+    },
+    {
+      "card_id": "F04",
+      "name": {
+        "en": "The Sovereign",
+        "th": "ผู้ครองอำนาจ"
+      },
+      "number": 4,
+      "roman": "IV",
+      "guidebook": {
+        "archetype": {
+          "en": "The Monument of Order",
+          "th": "อนุสาวรีย์แห่งระเบียบและอำนาจ"
+        },
+        "symbolism": {
+          "en": [
+            "stone throne",
+            "mountain backdrop",
+            "ram motifs",
+            "red cloak",
+            "architectural geometry"
+          ],
+          "th": [
+            "บัลลังก์หิน",
+            "ภูเขาเบื้องหลัง",
+            "สัญลักษณ์แกะผู้",
+            "ผ้าคลุมสีแดง",
+            "เส้นเรขาคณิตเชิงสถาปัตย์"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Leadership becomes necessary.",
+            "Boundaries, structure, and clarity create protection.",
+            "Authority is most powerful when rooted in responsibility.",
+            "Build what can endure."
+          ],
+          "th": [
+            "ถึงเวลาที่ภาวะผู้นำจะต้องปรากฏ",
+            "ขอบเขต ระเบียบ และความชัดเจน คือสิ่งที่สร้างการปกป้อง",
+            "อำนาจทรงค่าที่สุดเมื่อมีความรับผิดชอบเป็นราก",
+            "สร้างในสิ่งที่ยืนระยะได้"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Control may harden into rigidity or domination.",
+            "You may be overidentifying with power, status, or command.",
+            "Fear of vulnerability can disguise itself as authority.",
+            "Loosen what no longer needs to be ruled so tightly."
+          ],
+          "th": [
+            "การควบคุมอาจแข็งตัวจนกลายเป็นความเผด็จการหรือความตึงเกินไป",
+            "คุณอาจกำลังยึดตัวเองกับอำนาจ สถานะ หรือคำสั่งมากเกินควร",
+            "ความกลัวความเปราะบางอาจปลอมตัวเป็นภาวะผู้นำ",
+            "ผ่อนสิ่งที่ไม่จำเป็นต้องถูกควบคุมแน่นขนาดนั้น"
+          ]
+        },
+        "oracle_message": {
+          "en": "Rule with steadiness, not fear.",
+          "th": "จงนำด้วยความมั่นคง ไม่ใช่ด้วยความกลัว"
+        },
+        "fashion_caption": {
+          "en": "Power, carved in stone.",
+          "th": "อำนาจที่สลักขึ้นจากหิน"
+        },
+        "interpretive_note": {
+          "en": "This card channels the monument of order. Rule with steadiness, not fear.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของอนุสาวรีย์แห่งระเบียบและอำนาจ จงนำด้วยความมั่นคง ไม่ใช่ด้วยความกลัว"
+        },
+        "reading_focus": {
+          "en": [
+            "Leadership becomes necessary.",
+            "Boundaries, structure, and clarity create protection.",
+            "Authority is most powerful when rooted in responsibility."
+          ],
+          "th": [
+            "ถึงเวลาที่ภาวะผู้นำจะต้องปรากฏ",
+            "ขอบเขต ระเบียบ และความชัดเจน คือสิ่งที่สร้างการปกป้อง",
+            "อำนาจทรงค่าที่สุดเมื่อมีความรับผิดชอบเป็นราก"
+          ]
+        }
+      },
+      "canonical_name": "The Emperor"
+    },
+    {
+      "card_id": "F05",
+      "name": {
+        "en": "The Sanctum",
+        "th": "ผู้พิทักษ์จารีต"
+      },
+      "number": 5,
+      "roman": "V",
+      "guidebook": {
+        "archetype": {
+          "en": "The Keeper of Sacred Form",
+          "th": "ผู้พิทักษ์รูปแบบศักดิ์สิทธิ์"
+        },
+        "symbolism": {
+          "en": [
+            "blessing gesture",
+            "temple steps",
+            "sacred vestments",
+            "bowing devotees",
+            "institutional symmetry"
+          ],
+          "th": [
+            "ท่าอำนวยพร",
+            "ขั้นวิหาร",
+            "อาภรณ์ศักดิ์สิทธิ์",
+            "ผู้ศรัทธาน้อมลง",
+            "ความสมมาตรของสถาบัน"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Tradition, teaching, and initiation hold value now.",
+            "A mentor, lineage, or system can help you take the next step.",
+            "Ritual gives shape to meaning.",
+            "Belonging deepens when guided by sincere values."
+          ],
+          "th": [
+            "จารีต คำสอน และการผ่านพิธี มีคุณค่าสำคัญในเวลานี้",
+            "ครู สายวิชา หรือระบบบางอย่างอาจช่วยพาคุณไปสู่ขั้นต่อไป",
+            "พิธีกรรมทำให้ความหมายมีรูปทรง",
+            "การมีส่วนร่วมกับสิ่งที่ใหญ่กว่า จะลึกซึ้งขึ้นเมื่อมีคุณค่าที่จริงใจนำทาง"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Blind obedience or hollow tradition may block living truth.",
+            "You may outgrow a structure that once guided you.",
+            "Question authority without discarding wisdom.",
+            "Do not confuse conformity with devotion."
+          ],
+          "th": [
+            "การเชื่อฟังแบบไม่ไตร่ตรอง หรือจารีตที่กลวงเปล่า อาจขวางความจริงที่มีชีวิต",
+            "คุณอาจกำลังโตเกินโครงสร้างที่เคยชี้ทางคุณ",
+            "ตั้งคำถามกับอำนาจได้ โดยไม่จำเป็นต้องทิ้งปัญญาทั้งหมด",
+            "อย่าสับสนระหว่างความเหมือนคนอื่นกับความศรัทธา"
+          ]
+        },
+        "oracle_message": {
+          "en": "Receive the teaching, then make it living.",
+          "th": "รับคำสอน แล้วทำให้มันมีชีวิตในตัวคุณ"
+        },
+        "fashion_caption": {
+          "en": "Tradition, cut to exact grace.",
+          "th": "จารีตที่ถูกตัดเย็บให้สง่างามอย่างแม่นยำ"
+        },
+        "interpretive_note": {
+          "en": "This card channels the keeper of sacred form. Receive the teaching, then make it living.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้พิทักษ์รูปแบบศักดิ์สิทธิ์ รับคำสอน แล้วทำให้มันมีชีวิตในตัวคุณ"
+        },
+        "reading_focus": {
+          "en": [
+            "Tradition, teaching, and initiation hold value now.",
+            "A mentor, lineage, or system can help you take the next step.",
+            "Ritual gives shape to meaning."
+          ],
+          "th": [
+            "จารีต คำสอน และการผ่านพิธี มีคุณค่าสำคัญในเวลานี้",
+            "ครู สายวิชา หรือระบบบางอย่างอาจช่วยพาคุณไปสู่ขั้นต่อไป",
+            "พิธีกรรมทำให้ความหมายมีรูปทรง"
+          ]
+        }
+      },
+      "canonical_name": "The Hierophant"
+    },
+    {
+      "card_id": "F06",
+      "name": {
+        "en": "The Union",
+        "th": "สหสัมพันธ์"
+      },
+      "number": 6,
+      "roman": "VI",
+      "guidebook": {
+        "archetype": {
+          "en": "The Consecrated Choice",
+          "th": "การเลือกที่ถูกยกขึ้นเป็นสิ่งศักดิ์สิทธิ์"
+        },
+        "symbolism": {
+          "en": [
+            "roses",
+            "sacred fire",
+            "open chest",
+            "golden light",
+            "choice between longing and devotion"
+          ],
+          "th": [
+            "กุหลาบ",
+            "ไฟศักดิ์สิทธิ์",
+            "หน้าอกที่เปิดออก",
+            "แสงทองอบอุ่น",
+            "การเลือกระหว่างความโหยหาและการอุทิศตน"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Love asks for honesty, not fantasy.",
+            "A true choice aligns body, heart, and soul.",
+            "Union begins with self-revelation.",
+            "Desire can mature into devotion when chosen consciously."
+          ],
+          "th": [
+            "ความรักเรียกร้องความซื่อตรง ไม่ใช่จินตนาการหวานลอย",
+            "การเลือกที่แท้จริงต้องทำให้กาย ใจ และวิญญาณสอดคล้องกัน",
+            "ความสัมพันธ์เริ่มต้นจากการเปิดเผยตัวตน",
+            "ความปรารถนาจะเติบโตเป็นความอุทิศได้ เมื่อคุณเลือกอย่างมีสติ"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Indecision, projection, or idealization may distort intimacy.",
+            "You may be choosing what is beautiful over what is true.",
+            "Unspoken desire can create more confusion than clarity.",
+            "Return to the heart beneath the performance."
+          ],
+          "th": [
+            "ความลังเล การฉายภาพ หรือการโรแมนติไซซ์เกินจริง อาจบิดเบือนความใกล้ชิด",
+            "คุณอาจกำลังเลือกสิ่งที่สวยงามมากกว่าสิ่งที่จริง",
+            "ความปรารถนาที่ไม่เอ่ยออกมา อาจสร้างความสับสนยิ่งกว่าความชัดเจน",
+            "กลับสู่หัวใจที่อยู่ใต้การแสดงออกทั้งหลาย"
+          ]
+        },
+        "oracle_message": {
+          "en": "Choose what opens you, not what consumes you.",
+          "th": "เลือกสิ่งที่ทำให้คุณเปิดออก ไม่ใช่สิ่งที่กลืนกินคุณ"
+        },
+        "fashion_caption": {
+          "en": "Love, lit from within.",
+          "th": "ความรักที่ถูกจุดขึ้นจากภายใน"
+        },
+        "interpretive_note": {
+          "en": "This card channels the consecrated choice. Choose what opens you, not what consumes you.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของการเลือกที่ถูกยกขึ้นเป็นสิ่งศักดิ์สิทธิ์ เลือกสิ่งที่ทำให้คุณเปิดออก ไม่ใช่สิ่งที่กลืนกินคุณ"
+        },
+        "reading_focus": {
+          "en": [
+            "Love asks for honesty, not fantasy.",
+            "A true choice aligns body, heart, and soul.",
+            "Union begins with self-revelation."
+          ],
+          "th": [
+            "ความรักเรียกร้องความซื่อตรง ไม่ใช่จินตนาการหวานลอย",
+            "การเลือกที่แท้จริงต้องทำให้กาย ใจ และวิญญาณสอดคล้องกัน",
+            "ความสัมพันธ์เริ่มต้นจากการเปิดเผยตัวตน"
+          ]
+        }
+      },
+      "canonical_name": "The Lovers"
+    },
+    {
+      "card_id": "F07",
+      "name": {
+        "en": "The Victor",
+        "th": "ผู้พิชิต"
+      },
+      "number": 7,
+      "roman": "VII",
+      "guidebook": {
+        "archetype": {
+          "en": "The Vector of Will",
+          "th": "ทิศทางแห่งเจตจำนง"
+        },
+        "symbolism": {
+          "en": [
+            "urban skyline",
+            "battlewear",
+            "forward stride",
+            "black cape",
+            "runway as battlefield"
+          ],
+          "th": [
+            "เส้นขอบฟ้าเมือง",
+            "ชุดเกราะแฟชั่น",
+            "ก้าวไปข้างหน้า",
+            "ผ้าคลุมสีดำ",
+            "รันเวย์ในฐานะสนามรบ"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Momentum returns when your aim becomes singular.",
+            "Victory favors discipline, direction, and emotional control.",
+            "You are ready to move with force and purpose.",
+            "Let ambition serve mastery, not chaos."
+          ],
+          "th": [
+            "แรงส่งจะกลับมา เมื่อเป้าหมายของคุณชัดเป็นหนึ่งเดียว",
+            "ชัยชนะเข้าข้างวินัย ทิศทาง และการคุมอารมณ์",
+            "คุณพร้อมแล้วที่จะเคลื่อนด้วยพลังและจุดหมาย",
+            "ให้ความทะเยอทะยานรับใช้ความชำนาญ ไม่ใช่ความวุ่นวาย"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Force without alignment becomes aggression or burnout.",
+            "You may be moving fast without truly steering.",
+            "Control issues, impatience, or ego clashes can derail success.",
+            "Slow down enough to reclaim direction."
+          ],
+          "th": [
+            "พลังที่ไร้การจัดแนว จะกลายเป็นความก้าวร้าวหรือการหมดไฟ",
+            "คุณอาจกำลังไปเร็วโดยที่ไม่ได้คุมทิศจริงๆ",
+            "ปัญหาเรื่องการควบคุม ความใจร้อน หรือการปะทะกันของอีโก้ อาจทำให้หลุดเป้าหมาย",
+            "ชะลอลงพอให้คุณได้ทวงคืนทิศทาง"
+          ]
+        },
+        "oracle_message": {
+          "en": "Move like destiny has already chosen a direction.",
+          "th": "จงเคลื่อนราวกับโชคชะตาได้เลือกทิศให้แล้ว"
+        },
+        "fashion_caption": {
+          "en": "Velocity, sharpened into command.",
+          "th": "ความเร็วที่ถูกลับคมจนกลายเป็นอำนาจบัญชา"
+        },
+        "interpretive_note": {
+          "en": "This card channels the vector of will. Move like destiny has already chosen a direction.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของทิศทางแห่งเจตจำนง จงเคลื่อนราวกับโชคชะตาได้เลือกทิศให้แล้ว"
+        },
+        "reading_focus": {
+          "en": [
+            "Momentum returns when your aim becomes singular.",
+            "Victory favors discipline, direction, and emotional control.",
+            "You are ready to move with force and purpose."
+          ],
+          "th": [
+            "แรงส่งจะกลับมา เมื่อเป้าหมายของคุณชัดเป็นหนึ่งเดียว",
+            "ชัยชนะเข้าข้างวินัย ทิศทาง และการคุมอารมณ์",
+            "คุณพร้อมแล้วที่จะเคลื่อนด้วยพลังและจุดหมาย"
+          ]
+        }
+      },
+      "canonical_name": "The Chariot"
+    },
+    {
+      "card_id": "F08",
+      "name": {
+        "en": "The Gentle Force",
+        "th": "พลังอ่อนโยน"
+      },
+      "number": 8,
+      "roman": "VIII",
+      "guidebook": {
+        "archetype": {
+          "en": "The Gentle Tamer",
+          "th": "ผู้สยบพลังด้วยความอ่อนโยน"
+        },
+        "symbolism": {
+          "en": [
+            "lion",
+            "halo",
+            "bare chest",
+            "draped cloth",
+            "steady hand"
+          ],
+          "th": [
+            "สิงโต",
+            "รัศมีวงกลม",
+            "อกเปลือย",
+            "ผ้าพาดกาย",
+            "มือที่มั่นคง"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Real strength is patient, composed, and compassionate.",
+            "You do not need violence to hold power.",
+            "Gentleness can stabilize what force cannot.",
+            "Trust the quiet authority of self-mastery."
+          ],
+          "th": [
+            "ความเข้มแข็งแท้จริงคือความอดทน ความนิ่ง และความเมตตา",
+            "คุณไม่จำเป็นต้องใช้ความรุนแรงเพื่อมีอำนาจ",
+            "ความอ่อนโยนสามารถทำให้สิ่งที่แรงปะทะไม่สำเร็จกลับนิ่งลงได้",
+            "จงเชื่อในอำนาจเงียบของการคุมตนเอง"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Suppressed anger, insecurity, or overcompensation may be distorting your strength.",
+            "You may swing between control and collapse.",
+            "Tenderness is not weakness, but fear may keep you from trusting it.",
+            "Meet the animal within without punishing it."
+          ],
+          "th": [
+            "ความโกรธที่กดไว้ ความไม่มั่นคง หรือการชดเชยเกินเหตุ อาจกำลังบิดเบือนพลังของคุณ",
+            "คุณอาจแกว่งไปมาระหว่างการคุมทุกอย่างกับการพังลงเอง",
+            "ความอ่อนโยนไม่ใช่ความอ่อนแอ แต่ความกลัวอาจทำให้คุณไม่ไว้ใจมัน",
+            "เผชิญสัตว์ภายในใจ โดยไม่ลงโทษมัน"
+          ]
+        },
+        "oracle_message": {
+          "en": "Power softens into grace when it no longer needs to prove itself.",
+          "th": "พลังจะกลายเป็นความสง่างาม เมื่อมันไม่ต้องพิสูจน์ตัวเองอีกต่อไป"
+        },
+        "fashion_caption": {
+          "en": "Mercy, wearing muscle and light.",
+          "th": "ความเมตตาในรูปของกล้ามเนื้อและแสง"
+        },
+        "interpretive_note": {
+          "en": "This card channels the gentle tamer. Power softens into grace when it no longer needs to prove itself.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้สยบพลังด้วยความอ่อนโยน พลังจะกลายเป็นความสง่างาม เมื่อมันไม่ต้องพิสูจน์ตัวเองอีกต่อไป"
+        },
+        "reading_focus": {
+          "en": [
+            "Real strength is patient, composed, and compassionate.",
+            "You do not need violence to hold power.",
+            "Gentleness can stabilize what force cannot."
+          ],
+          "th": [
+            "ความเข้มแข็งแท้จริงคือความอดทน ความนิ่ง และความเมตตา",
+            "คุณไม่จำเป็นต้องใช้ความรุนแรงเพื่อมีอำนาจ",
+            "ความอ่อนโยนสามารถทำให้สิ่งที่แรงปะทะไม่สำเร็จกลับนิ่งลงได้"
+          ]
+        }
+      },
+      "canonical_name": "Strength"
+    },
+    {
+      "card_id": "F09",
+      "name": {
+        "en": "The Seeker",
+        "th": "ผู้แสวงหา"
+      },
+      "number": 9,
+      "roman": "IX",
+      "guidebook": {
+        "archetype": {
+          "en": "The Lantern Bearer",
+          "th": "ผู้ถือโคมแห่งปัญญา"
+        },
+        "symbolism": {
+          "en": [
+            "lantern",
+            "moonlit road",
+            "bare feet",
+            "mist",
+            "night pilgrimage"
+          ],
+          "th": [
+            "โคมไฟ",
+            "ทางยามจันทร์",
+            "เท้าเปล่า",
+            "หมอก",
+            "การจาริกยามค่ำ"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Solitude reveals what distraction conceals.",
+            "A period of withdrawal can clarify your deepest truth.",
+            "Wisdom grows through distance, patience, and inner listening.",
+            "Walk slowly enough to hear your own soul."
+          ],
+          "th": [
+            "ความสันโดษเผยสิ่งที่ความวุ่นวายเคยปิดบังไว้",
+            "ช่วงเวลาที่ถอยห่าง อาจทำให้ความจริงลึกที่สุดของคุณชัดขึ้น",
+            "ปัญญาเติบโตผ่านระยะห่าง ความอดทน และการฟังภายใน",
+            "เดินให้ช้าพอ จนคุณได้ยินเสียงวิญญาณของตัวเอง"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Isolation, cynicism, or spiritual fatigue may be replacing true solitude.",
+            "You may be withdrawing not to understand, but to disappear.",
+            "The light is still with you, but you must choose to lift it.",
+            "Wisdom cannot grow where the heart remains sealed."
+          ],
+          "th": [
+            "ความโดดเดี่ยว ความเย็นชา หรือความอ่อนล้าทางจิตวิญญาณ อาจกำลังมาแทนความสันโดษที่แท้",
+            "คุณอาจกำลังถอยออกมา ไม่ใช่เพื่อเข้าใจ แต่เพื่อหายตัวไปจากปัญหา",
+            "แสงยังอยู่กับคุณ แต่คุณต้องเลือกจะยกมันขึ้นเอง",
+            "ปัญญาไม่เติบโตในใจที่ปิดตาย"
+          ]
+        },
+        "oracle_message": {
+          "en": "The light you seek is already in your hand.",
+          "th": "แสงที่คุณกำลังหา อยู่ในมือคุณแล้ว"
+        },
+        "fashion_caption": {
+          "en": "Wisdom walks alone, but never in darkness.",
+          "th": "ปัญญาเดินลำพัง แต่ไม่เคยอยู่ในความมืด"
+        },
+        "interpretive_note": {
+          "en": "This card channels the lantern bearer. The light you seek is already in your hand.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้ถือโคมแห่งปัญญา แสงที่คุณกำลังหา อยู่ในมือคุณแล้ว"
+        },
+        "reading_focus": {
+          "en": [
+            "Solitude reveals what distraction conceals.",
+            "A period of withdrawal can clarify your deepest truth.",
+            "Wisdom grows through distance, patience, and inner listening."
+          ],
+          "th": [
+            "ความสันโดษเผยสิ่งที่ความวุ่นวายเคยปิดบังไว้",
+            "ช่วงเวลาที่ถอยห่าง อาจทำให้ความจริงลึกที่สุดของคุณชัดขึ้น",
+            "ปัญญาเติบโตผ่านระยะห่าง ความอดทน และการฟังภายใน"
+          ]
+        }
+      },
+      "canonical_name": "The Hermit"
+    },
+    {
+      "card_id": "F10",
+      "name": {
+        "en": "The Turning Point",
+        "th": "จุดพลิกผัน"
+      },
+      "number": 10,
+      "roman": "X",
+      "guidebook": {
+        "archetype": {
+          "en": "The Cosmic Pivot",
+          "th": "ผู้ยืนอยู่ ณ จุดหมุนของจักรวาล"
+        },
+        "symbolism": {
+          "en": [
+            "astrological wheel",
+            "cosmic timing",
+            "cycles and destiny",
+            "movement beyond control",
+            "surrender to change"
+          ],
+          "th": [
+            "วงล้อโหราศาสตร์",
+            "จังหวะเวลาแห่งจักรวาล",
+            "วัฏจักรและโชคชะตา",
+            "การเคลื่อนไหวที่ควบคุมไม่ได้ทั้งหมด",
+            "การยอมรับความเปลี่ยนแปลง"
+          ]
+        },
+        "upright": {
+          "en": [
+            "A turning point is arriving, and life is shifting in ways larger than personal control.",
+            "Favorable timing, luck, and momentum begin to gather around you.",
+            "What once felt stalled starts moving again through unseen alignment.",
+            "Trust the cycle; the wheel is carrying you toward change and expansion."
+          ],
+          "th": [
+            "จุดเปลี่ยนสำคัญกำลังมาถึง และชีวิตกำลังขยับไปในทิศทางที่ใหญ่กว่าการควบคุมส่วนตัว",
+            "จังหวะที่ดี โชค และแรงส่งเริ่มรวมตัวรอบคุณ",
+            "สิ่งที่เคยหยุดนิ่งเริ่มหมุนอีกครั้งจากการจัดเรียงของเหตุปัจจัยที่มองไม่เห็น",
+            "จงเชื่อในวัฏจักร เพราะวงล้อกำลังพาคุณไปสู่การเปลี่ยนผ่านและการขยายตัว"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "You may be resisting a cycle that has already begun to change.",
+            "Delays, bad timing, or repeated patterns suggest a lesson has not yet been integrated.",
+            "Trying to control fate too tightly creates more frustration than stability.",
+            "Pause and observe what keeps repeating; the wheel is asking for awareness, not panic."
+          ],
+          "th": [
+            "คุณอาจกำลังต้านการเปลี่ยนแปลงที่เริ่มหมุนไปแล้ว",
+            "ความล่าช้า จังหวะไม่ลงตัว หรือรูปแบบเดิมที่วนซ้ำ บ่งบอกว่าบทเรียนบางอย่างยังไม่ถูกรับเข้าไปอย่างแท้จริง",
+            "ยิ่งพยายามควบคุมโชคชะตาแน่นเกินไป ยิ่งเกิดความอึดอัดมากกว่าความมั่นคง",
+            "หยุดและสังเกตสิ่งที่เกิดซ้ำ วงล้อกำลังเรียกร้องให้ตระหนักรู้ ไม่ใช่ตื่นตระหนก"
+          ]
+        },
+        "oracle_message": {
+          "en": "Let the wheel move. What is meant to turn will turn.",
+          "th": "ปล่อยให้วงล้อหมุน สิ่งที่ถึงเวลาจะเปลี่ยน ย่อมเปลี่ยน"
+        },
+        "fashion_caption": {
+          "en": "Destiny, tailored in gold and starlight.",
+          "th": "โชคชะตาในรูปทรงที่ตัดเย็บด้วยแสงดาวและทองเรืองรอง"
+        },
+        "interpretive_note": {
+          "en": "This card channels the cosmic pivot. Let the wheel move. What is meant to turn will turn.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้ยืนอยู่ ณ จุดหมุนของจักรวาล ปล่อยให้วงล้อหมุน สิ่งที่ถึงเวลาจะเปลี่ยน ย่อมเปลี่ยน"
+        },
+        "reading_focus": {
+          "en": [
+            "A turning point is arriving, and life is shifting in ways larger than personal control.",
+            "Favorable timing, luck, and momentum begin to gather around you.",
+            "What once felt stalled starts moving again through unseen alignment."
+          ],
+          "th": [
+            "จุดเปลี่ยนสำคัญกำลังมาถึง และชีวิตกำลังขยับไปในทิศทางที่ใหญ่กว่าการควบคุมส่วนตัว",
+            "จังหวะที่ดี โชค และแรงส่งเริ่มรวมตัวรอบคุณ",
+            "สิ่งที่เคยหยุดนิ่งเริ่มหมุนอีกครั้งจากการจัดเรียงของเหตุปัจจัยที่มองไม่เห็น"
+          ]
+        }
+      },
+      "canonical_name": "Wheel of Fortune"
+    },
+    {
+      "card_id": "F11",
+      "name": {
+        "en": "The Measure",
+        "th": "ดุลยภาพ"
+      },
+      "number": 11,
+      "roman": "XI",
+      "guidebook": {
+        "archetype": {
+          "en": "The Sovereign of Truth",
+          "th": "ผู้ครองบัลลังก์แห่งความจริง"
+        },
+        "symbolism": {
+          "en": [
+            "sword of truth",
+            "balanced scales",
+            "judgment",
+            "accountability",
+            "clarity through order"
+          ],
+          "th": [
+            "ดาบแห่งความจริง",
+            "ตราชั่งแห่งสมดุล",
+            "การตัดสิน",
+            "ความรับผิดชอบต่อผลของการกระทำ",
+            "ความชัดเจนผ่านระเบียบ"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Truth is asking to be faced without distortion.",
+            "A decision must be made with balance, honesty, and consequence in mind.",
+            "You are being called to act from integrity rather than emotion alone.",
+            "Fair outcomes become possible when you stand fully accountable for your choices."
+          ],
+          "th": [
+            "ความจริงกำลังเรียกร้องให้เผชิญอย่างไม่บิดเบือน",
+            "มีการตัดสินใจที่ต้องอาศัยสมดุล ความซื่อตรง และการตระหนักถึงผลตามมา",
+            "คุณกำลังถูกเรียกให้กระทำจากความเที่ยงตรง ไม่ใช่อารมณ์เพียงอย่างเดียว",
+            "ผลลัพธ์ที่เป็นธรรมเกิดขึ้นได้เมื่อคุณยอมรับความรับผิดชอบต่อการเลือกของตนอย่างเต็มที่"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Bias, denial, or emotional defensiveness may be clouding judgment.",
+            "You may be avoiding responsibility for something that clearly requires ownership.",
+            "An imbalance in power, fairness, or truth is asking to be corrected.",
+            "Do not confuse self-protection with righteousness."
+          ],
+          "th": [
+            "อคติ การปฏิเสธ หรือการตั้งการ์ดทางอารมณ์อาจกำลังบดบังการตัดสิน",
+            "คุณอาจกำลังหลีกเลี่ยงความรับผิดชอบในเรื่องที่ควรยอมรับอย่างชัดเจน",
+            "ความไม่สมดุลในอำนาจ ความเป็นธรรม หรือความจริง กำลังต้องการการแก้ไข",
+            "อย่าสับสนระหว่างการปกป้องตนเองกับความถูกต้องแท้จริง"
+          ]
+        },
+        "oracle_message": {
+          "en": "Stand where truth can recognize you.",
+          "th": "จงยืนอยู่ในจุดที่ความจริงสามารถจดจำคุณได้"
+        },
+        "fashion_caption": {
+          "en": "Precision is power.",
+          "th": "ความแม่นยำคืออำนาจ"
+        },
+        "interpretive_note": {
+          "en": "This card channels the sovereign of truth. Stand where truth can recognize you.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้ครองบัลลังก์แห่งความจริง จงยืนอยู่ในจุดที่ความจริงสามารถจดจำคุณได้"
+        },
+        "reading_focus": {
+          "en": [
+            "Truth is asking to be faced without distortion.",
+            "A decision must be made with balance, honesty, and consequence in mind.",
+            "You are being called to act from integrity rather than emotion alone."
+          ],
+          "th": [
+            "ความจริงกำลังเรียกร้องให้เผชิญอย่างไม่บิดเบือน",
+            "มีการตัดสินใจที่ต้องอาศัยสมดุล ความซื่อตรง และการตระหนักถึงผลตามมา",
+            "คุณกำลังถูกเรียกให้กระทำจากความเที่ยงตรง ไม่ใช่อารมณ์เพียงอย่างเดียว"
+          ]
+        }
+      },
+      "canonical_name": "Justice"
+    },
+    {
+      "card_id": "F12",
+      "name": {
+        "en": "The Suspension",
+        "th": "ภาวะหยุดค้าง"
+      },
+      "number": 12,
+      "roman": "XII",
+      "guidebook": {
+        "archetype": {
+          "en": "The Sacred Suspension",
+          "th": "ผู้ยอมค้างอยู่ในภาวะศักดิ์สิทธิ์"
+        },
+        "symbolism": {
+          "en": [
+            "suspension",
+            "reversal of perspective",
+            "surrender",
+            "stillness as initiation",
+            "illumined pause"
+          ],
+          "th": [
+            "การหยุดค้าง",
+            "การกลับมุมมอง",
+            "การยอมปล่อย",
+            "ความนิ่งในฐานะพิธีผ่านแดน",
+            "ช่วงหยุดที่เปล่งแสง"
+          ]
+        },
+        "upright": {
+          "en": [
+            "A pause is not punishment; it is a new angle of understanding.",
+            "Let go of forced movement and allow insight to arrive through surrender.",
+            "You are being invited to stop pushing and start perceiving differently.",
+            "Meaning deepens when control softens."
+          ],
+          "th": [
+            "การหยุดไม่ใช่การลงโทษ แต่คือมุมมองใหม่ของความเข้าใจ",
+            "ปล่อยการฝืนผลัก และยอมให้ความกระจ่างมาถึงผ่านการยอมรับ",
+            "คุณกำลังถูกเชื้อเชิญให้หยุดการดิ้น แล้วเริ่มมองเห็นในแบบที่ต่างออกไป",
+            "ความหมายจะลึกขึ้นเมื่อความอยากควบคุมอ่อนลง"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "You may be lingering in suspension without allowing the lesson to unfold.",
+            "Resistance to surrender keeps the situation stagnant.",
+            "Martyrdom, avoidance, or passivity can masquerade as spiritual patience.",
+            "Change perspective, not just posture."
+          ],
+          "th": [
+            "คุณอาจกำลังค้างอยู่ในภาวะหยุดนิ่งโดยยังไม่ยอมให้บทเรียนคลี่ออก",
+            "การต้านการปล่อยวางทำให้สถานการณ์นิ่งค้างยิ่งกว่าเดิม",
+            "การเสียสละเกินจำเป็น การหลีกเลี่ยง หรือความเฉื่อยชา อาจปลอมตัวเป็นความอดทนทางจิตวิญญาณ",
+            "จงเปลี่ยนมุมมอง ไม่ใช่เพียงเปลี่ยนท่า"
+          ]
+        },
+        "oracle_message": {
+          "en": "What feels suspended may actually be becoming sacred.",
+          "th": "สิ่งที่ดูเหมือนถูกแขวนค้าง อาจกำลังกลายเป็นบางสิ่งที่ศักดิ์สิทธิ์"
+        },
+        "fashion_caption": {
+          "en": "Stillness, inverted into revelation.",
+          "th": "ความนิ่งที่พลิกกลับจนกลายเป็นการเปิดเผย"
+        },
+        "interpretive_note": {
+          "en": "This card channels the sacred suspension. What feels suspended may actually be becoming sacred.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้ยอมค้างอยู่ในภาวะศักดิ์สิทธิ์ สิ่งที่ดูเหมือนถูกแขวนค้าง อาจกำลังกลายเป็นบางสิ่งที่ศักดิ์สิทธิ์"
+        },
+        "reading_focus": {
+          "en": [
+            "A pause is not punishment; it is a new angle of understanding.",
+            "Let go of forced movement and allow insight to arrive through surrender.",
+            "You are being invited to stop pushing and start perceiving differently."
+          ],
+          "th": [
+            "การหยุดไม่ใช่การลงโทษ แต่คือมุมมองใหม่ของความเข้าใจ",
+            "ปล่อยการฝืนผลัก และยอมให้ความกระจ่างมาถึงผ่านการยอมรับ",
+            "คุณกำลังถูกเชื้อเชิญให้หยุดการดิ้น แล้วเริ่มมองเห็นในแบบที่ต่างออกไป"
+          ]
+        }
+      },
+      "canonical_name": "The Hanged Man"
+    },
+    {
+      "card_id": "F13",
+      "name": {
+        "en": "The Metamorphosis",
+        "th": "การลอกคราบ"
+      },
+      "number": 13,
+      "roman": "XIII",
+      "guidebook": {
+        "archetype": {
+          "en": "The Beautiful Ending",
+          "th": "ผู้เดินผ่านจุดจบอย่างงดงาม"
+        },
+        "symbolism": {
+          "en": [
+            "ending and rebirth",
+            "smoke of dissolution",
+            "petals of release",
+            "shed identity",
+            "inevitable transformation"
+          ],
+          "th": [
+            "การสิ้นสุดและเกิดใหม่",
+            "ควันแห่งการสลายตัว",
+            "กลีบดอกแห่งการปล่อยวาง",
+            "อัตลักษณ์เก่าที่หลุดออก",
+            "การเปลี่ยนผ่านที่หลีกเลี่ยงไม่ได้"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Something has completed its life in your world and cannot return to its former state.",
+            "This ending is not failure; it is the threshold of necessary renewal.",
+            "Release what has already died so that what is living may emerge.",
+            "Transformation becomes graceful when you stop bargaining with the inevitable."
+          ],
+          "th": [
+            "บางสิ่งในโลกของคุณได้สิ้นอายุของมันแล้ว และไม่อาจกลับเป็นแบบเดิมได้อีก",
+            "จุดจบนี้ไม่ใช่ความล้มเหลว แต่คือธรณีประตูของการเกิดใหม่ที่จำเป็น",
+            "ปล่อยสิ่งที่ตายไปแล้ว เพื่อให้สิ่งที่ยังมีชีวิตได้ปรากฏขึ้น",
+            "การเปลี่ยนผ่านจะงดงามขึ้นเมื่อคุณหยุดต่อรองกับสิ่งที่หลีกเลี่ยงไม่ได้"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "You may be clinging to an expired identity, role, or attachment.",
+            "Fear of ending prolongs the pain more than the ending itself.",
+            "Transformation is delayed when grief is denied.",
+            "Let the old form fall; it is no longer carrying your truth."
+          ],
+          "th": [
+            "คุณอาจกำลังยึดติดกับตัวตน บทบาท หรือความผูกพันที่หมดอายุไปแล้ว",
+            "ความกลัวการจบ ทำให้ความเจ็บยืดเยื้อยิ่งกว่าจุดจบเสียอีก",
+            "การเปลี่ยนผ่านถูกชะลอเมื่อความเศร้าไม่ได้รับการยอมรับ",
+            "ปล่อยให้รูปแบบเดิมร่วงลงเถิด เพราะมันไม่รองรับความจริงของคุณอีกต่อไป"
+          ]
+        },
+        "oracle_message": {
+          "en": "Do not fear the ending that has come to free you.",
+          "th": "อย่ากลัวจุดจบที่มาถึงเพื่อปลดปล่อยคุณ"
+        },
+        "fashion_caption": {
+          "en": "Transformation enters in black, and leaves in light.",
+          "th": "การเปลี่ยนผ่านเดินเข้ามาในสีดำ และจากไปพร้อมแสง"
+        },
+        "interpretive_note": {
+          "en": "This card channels the beautiful ending. Do not fear the ending that has come to free you.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้เดินผ่านจุดจบอย่างงดงาม อย่ากลัวจุดจบที่มาถึงเพื่อปลดปล่อยคุณ"
+        },
+        "reading_focus": {
+          "en": [
+            "Something has completed its life in your world and cannot return to its former state.",
+            "This ending is not failure; it is the threshold of necessary renewal.",
+            "Release what has already died so that what is living may emerge."
+          ],
+          "th": [
+            "บางสิ่งในโลกของคุณได้สิ้นอายุของมันแล้ว และไม่อาจกลับเป็นแบบเดิมได้อีก",
+            "จุดจบนี้ไม่ใช่ความล้มเหลว แต่คือธรณีประตูของการเกิดใหม่ที่จำเป็น",
+            "ปล่อยสิ่งที่ตายไปแล้ว เพื่อให้สิ่งที่ยังมีชีวิตได้ปรากฏขึ้น"
+          ]
+        }
+      },
+      "canonical_name": "Death"
+    },
+    {
+      "card_id": "F14",
+      "name": {
+        "en": "The Harmony",
+        "th": "ความกลมกลืน"
+      },
+      "number": 14,
+      "roman": "XIV",
+      "guidebook": {
+        "archetype": {
+          "en": "The Alchemist of Grace",
+          "th": "นักเล่นแร่แปรธาตุแห่งความสง่างาม"
+        },
+        "symbolism": {
+          "en": [
+            "blending opposites",
+            "alchemy",
+            "healing flow",
+            "moderation",
+            "harmonized elements"
+          ],
+          "th": [
+            "การผสานสิ่งตรงข้าม",
+            "เล่นแร่แปรธาตุ",
+            "การเยียวยาอย่างลื่นไหล",
+            "ความพอดี",
+            "ธาตุที่กลมกลืน"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Balance is restored through patience, blending, and wise adjustment.",
+            "Healing comes not from force, but from measured integration.",
+            "You are learning how to hold complexity without becoming divided by it.",
+            "Harmony is built through practice, not accident."
+          ],
+          "th": [
+            "สมดุลกำลังกลับคืนมาผ่านความอดทน การผสมผสาน และการปรับอย่างมีปัญญา",
+            "การเยียวยาไม่ได้มาจากการฝืน แต่มาจากการประสานอย่างพอเหมาะ",
+            "คุณกำลังเรียนรู้ที่จะรองรับความซับซ้อนโดยไม่แตกแยกภายใน",
+            "ความกลมกลืนเกิดจากการฝึกฝน ไม่ใช่เรื่องบังเอิญ"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Excess, impatience, or emotional imbalance is disturbing your inner equilibrium.",
+            "Something in your life is out of proportion and asking for recalibration.",
+            "Trying to rush healing can fracture what should be gently integrated.",
+            "Return to simplicity, rhythm, and the wisdom of enough."
+          ],
+          "th": [
+            "ความสุดโต่ง ความรีบเร่ง หรือความไม่สมดุลทางอารมณ์ กำลังรบกวนดุลยภาพภายใน",
+            "บางอย่างในชีวิตกำลังเกินหรือขาด จนต้องได้รับการปรับใหม่",
+            "การเร่งเยียวยาเร็วเกินไป อาจทำให้สิ่งที่ควรประสานค่อยๆ แตกออก",
+            "กลับสู่ความเรียบง่าย จังหวะที่พอดี และปัญญาของคำว่าเพียงพอ"
+          ]
+        },
+        "oracle_message": {
+          "en": "Grace is the art of right proportion.",
+          "th": "ความสง่างามคือศิลปะแห่งสัดส่วนที่พอดี"
+        },
+        "fashion_caption": {
+          "en": "Harmony, poured by hand.",
+          "th": "ความกลมกลืนที่ถูกรินด้วยมือ"
+        },
+        "interpretive_note": {
+          "en": "This card channels the alchemist of grace. Grace is the art of right proportion.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของนักเล่นแร่แปรธาตุแห่งความสง่างาม ความสง่างามคือศิลปะแห่งสัดส่วนที่พอดี"
+        },
+        "reading_focus": {
+          "en": [
+            "Balance is restored through patience, blending, and wise adjustment.",
+            "Healing comes not from force, but from measured integration.",
+            "You are learning how to hold complexity without becoming divided by it."
+          ],
+          "th": [
+            "สมดุลกำลังกลับคืนมาผ่านความอดทน การผสมผสาน และการปรับอย่างมีปัญญา",
+            "การเยียวยาไม่ได้มาจากการฝืน แต่มาจากการประสานอย่างพอเหมาะ",
+            "คุณกำลังเรียนรู้ที่จะรองรับความซับซ้อนโดยไม่แตกแยกภายใน"
+          ]
+        }
+      },
+      "canonical_name": "Temperance"
+    },
+    {
+      "card_id": "F15",
+      "name": {
+        "en": "The Temptation",
+        "th": "สิ่งยั่วยวน"
+      },
+      "number": 15,
+      "roman": "XV",
+      "guidebook": {
+        "archetype": {
+          "en": "The Seductive Captor",
+          "th": "ผู้กักขังด้วยเสน่ห์เย้ายวน"
+        },
+        "symbolism": {
+          "en": [
+            "chains of attachment",
+            "seduction and control",
+            "power intertwined with desire",
+            "voluntary bondage",
+            "shadow glamour"
+          ],
+          "th": [
+            "โซ่แห่งความยึดติด",
+            "แรงยั่วยวนและการควบคุม",
+            "อำนาจที่พันกับความปรารถนา",
+            "พันธนาการที่ยอมรับเอง",
+            "เสน่ห์ของเงามืด"
+          ]
+        },
+        "upright": {
+          "en": [
+            "You may be entangled in desire, obsession, or a pattern that feels powerful but quietly drains your freedom.",
+            "Temptation is strong because it speaks the language of pleasure, control, and hunger.",
+            "A fixation on status, sex, possession, or validation may be tightening around you.",
+            "See clearly where attraction has become captivity."
+          ],
+          "th": [
+            "คุณอาจกำลังติดอยู่ในความอยาก ความหมกมุ่น หรือรูปแบบบางอย่างที่ให้ความรู้สึกทรงพลัง แต่ค่อยๆ ดูดอิสรภาพของคุณไป",
+            "สิ่งยั่วยวนมีพลังเพราะมันพูดด้วยภาษาของความสุข การควบคุม และความหิวลึกภายใน",
+            "ความยึดติดกับสถานะ เพศสัมพันธ์ การครอบครอง หรือการได้รับการยืนยันค่า อาจกำลังรัดตัวคุณแน่นขึ้น",
+            "จงมองให้ชัดว่าจุดใดที่แรงดึงดูดได้กลายเป็นคุก"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "You are beginning to recognize the chain for what it is.",
+            "A release from addiction, control, or toxic attachment becomes possible through honesty.",
+            "The spell weakens when shame is faced directly instead of hidden.",
+            "Freedom starts the moment you stop glamorizing what harms you."
+          ],
+          "th": [
+            "คุณกำลังเริ่มเห็นโซ่นั้นตามที่มันเป็นจริง",
+            "การหลุดออกจากการเสพติด การครอบงำ หรือความผูกพันที่เป็นพิษ เริ่มเป็นไปได้เมื่อมีความซื่อตรงต่อตนเอง",
+            "มนตร์สะกดจะอ่อนแรงลงเมื่อคุณเผชิญความอับอายตรงๆ แทนที่จะซ่อนไว้",
+            "อิสรภาพเริ่มต้นทันทีที่คุณหยุดทำให้สิ่งที่ทำร้ายตัวเองดูงดงามเกินจริง"
+          ]
+        },
+        "oracle_message": {
+          "en": "Not every desire deserves devotion.",
+          "th": "ไม่ใช่ทุกความปรารถนาที่คู่ควรกับการอุทิศตน"
+        },
+        "fashion_caption": {
+          "en": "Desire wears black, and asks to be obeyed.",
+          "th": "ความปรารถนาสวมสีดำ และเรียกร้องให้คุณยอมจำนน"
+        },
+        "interpretive_note": {
+          "en": "This card channels the seductive captor. Not every desire deserves devotion.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้กักขังด้วยเสน่ห์เย้ายวน ไม่ใช่ทุกความปรารถนาที่คู่ควรกับการอุทิศตน"
+        },
+        "reading_focus": {
+          "en": [
+            "You may be entangled in desire, obsession, or a pattern that feels powerful but quietly drains your freedom.",
+            "Temptation is strong because it speaks the language of pleasure, control, and hunger.",
+            "A fixation on status, sex, possession, or validation may be tightening around you."
+          ],
+          "th": [
+            "คุณอาจกำลังติดอยู่ในความอยาก ความหมกมุ่น หรือรูปแบบบางอย่างที่ให้ความรู้สึกทรงพลัง แต่ค่อยๆ ดูดอิสรภาพของคุณไป",
+            "สิ่งยั่วยวนมีพลังเพราะมันพูดด้วยภาษาของความสุข การควบคุม และความหิวลึกภายใน",
+            "ความยึดติดกับสถานะ เพศสัมพันธ์ การครอบครอง หรือการได้รับการยืนยันค่า อาจกำลังรัดตัวคุณแน่นขึ้น"
+          ]
+        }
+      },
+      "canonical_name": "The Devil"
+    },
+    {
+      "card_id": "F16",
+      "name": {
+        "en": "The Rupture",
+        "th": "รอยแตก"
+      },
+      "number": 16,
+      "roman": "XVI",
+      "guidebook": {
+        "archetype": {
+          "en": "The Shattered Illusion",
+          "th": "ผู้ยืนอยู่หลังภาพลวงที่แตกสลาย"
+        },
+        "symbolism": {
+          "en": [
+            "lightning revelation",
+            "collapse of false security",
+            "shattered structures",
+            "sudden awakening",
+            "crisis as truth"
+          ],
+          "th": [
+            "สายฟ้าแห่งการเปิดเผย",
+            "การล่มของความมั่นคงปลอม",
+            "โครงสร้างที่แตกกระจาย",
+            "การตื่นรู้แบบฉับพลัน",
+            "วิกฤตในฐานะความจริง"
+          ]
+        },
+        "upright": {
+          "en": [
+            "A structure in your life is breaking because it can no longer sustain truth.",
+            "Shock, disruption, or sudden exposure clears away what illusion has protected.",
+            "What falls now may feel catastrophic, but it is also liberating.",
+            "This is the card of revelation through rupture."
+          ],
+          "th": [
+            "โครงสร้างบางอย่างในชีวิตคุณกำลังแตก เพราะมันไม่สามารถรองรับความจริงได้อีกต่อไป",
+            "ความตกใจ ความปั่นป่วน หรือการถูกเปิดโปงอย่างฉับพลัน กำลังกวาดสิ่งที่ภาพลวงเคยปกป้องไว้ออกไป",
+            "สิ่งที่พังลงในตอนนี้อาจดูเหมือนหายนะ แต่ในอีกด้านก็เป็นการปลดปล่อย",
+            "นี่คือไพ่แห่งการเปิดเผยผ่านรอยแตก"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "You may sense collapse coming and are exhausting yourself trying to hold up what is already unstable.",
+            "Internal breakdown can precede visible change.",
+            "Resisting necessary upheaval only magnifies fear.",
+            "Let the false tower fall before it becomes your prison."
+          ],
+          "th": [
+            "คุณอาจเริ่มรู้สึกได้ว่าความพังทลายกำลังมา และกำลังหมดแรงไปกับการพยุงสิ่งที่ไม่มั่นคงอยู่แล้ว",
+            "การพังภายในอาจเกิดขึ้นก่อนที่โลกภายนอกจะเปลี่ยน",
+            "การต้านการเปลี่ยนแปลงที่จำเป็น มีแต่จะขยายความกลัวให้มากขึ้น",
+            "ปล่อยให้หอคอยปลอมพังลง ก่อนที่มันจะกลายเป็นคุกของคุณ"
+          ]
+        },
+        "oracle_message": {
+          "en": "What lightning destroys, truth no longer needs.",
+          "th": "สิ่งที่สายฟ้าทำลาย คือสิ่งที่ความจริงไม่ต้องการอีกแล้ว"
+        },
+        "fashion_caption": {
+          "en": "Elegance survives the collapse.",
+          "th": "ความสง่างามยังคงอยู่แม้ทุกอย่างพังลง"
+        },
+        "interpretive_note": {
+          "en": "This card channels the shattered illusion. What lightning destroys, truth no longer needs.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้ยืนอยู่หลังภาพลวงที่แตกสลาย สิ่งที่สายฟ้าทำลาย คือสิ่งที่ความจริงไม่ต้องการอีกแล้ว"
+        },
+        "reading_focus": {
+          "en": [
+            "A structure in your life is breaking because it can no longer sustain truth.",
+            "Shock, disruption, or sudden exposure clears away what illusion has protected.",
+            "What falls now may feel catastrophic, but it is also liberating."
+          ],
+          "th": [
+            "โครงสร้างบางอย่างในชีวิตคุณกำลังแตก เพราะมันไม่สามารถรองรับความจริงได้อีกต่อไป",
+            "ความตกใจ ความปั่นป่วน หรือการถูกเปิดโปงอย่างฉับพลัน กำลังกวาดสิ่งที่ภาพลวงเคยปกป้องไว้ออกไป",
+            "สิ่งที่พังลงในตอนนี้อาจดูเหมือนหายนะ แต่ในอีกด้านก็เป็นการปลดปล่อย"
+          ]
+        }
+      },
+      "canonical_name": "The Tower"
+    },
+    {
+      "card_id": "F17",
+      "name": {
+        "en": "The Radiance",
+        "th": "แสงเยียวยา"
+      },
+      "number": 17,
+      "roman": "XVII",
+      "guidebook": {
+        "archetype": {
+          "en": "The Luminous Healer",
+          "th": "ผู้เยียวยาด้วยแสงเรืองรอง"
+        },
+        "symbolism": {
+          "en": [
+            "healing waters",
+            "hope after ruin",
+            "star-guided renewal",
+            "vulnerability as grace",
+            "sacred replenishment"
+          ],
+          "th": [
+            "สายน้ำแห่งการเยียวยา",
+            "ความหวังหลังความพังทลาย",
+            "การฟื้นคืนที่ได้รับการนำทางจากดวงดาว",
+            "ความเปราะบางที่งดงาม",
+            "การเติมเต็มอันศักดิ์สิทธิ์"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Healing begins where gentleness is allowed to return.",
+            "Hope reappears, not as noise, but as quiet trust.",
+            "You are being restored emotionally, spiritually, or creatively.",
+            "Let yourself believe in renewal again."
+          ],
+          "th": [
+            "การเยียวยาเริ่มต้นตรงจุดที่คุณยอมให้ความอ่อนโยนกลับมา",
+            "ความหวังปรากฏอีกครั้ง ไม่ใช่ในรูปของเสียงดัง แต่ในรูปของความไว้วางใจอันเงียบสงบ",
+            "คุณกำลังได้รับการฟื้นฟูทางอารมณ์ ทางจิตวิญญาณ หรือทางความสร้างสรรค์",
+            "จงยอมให้ตัวเองเชื่อในการเริ่มใหม่อีกครั้ง"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "You may be struggling to trust healing because pain has made you guarded.",
+            "Hope feels distant when exhaustion has not yet been acknowledged.",
+            "Do not confuse numbness with peace.",
+            "The stars are still present, even when you cannot fully receive them."
+          ],
+          "th": [
+            "คุณอาจกำลังยากที่จะเชื่อในการเยียวยา เพราะความเจ็บทำให้คุณปิดตัวเองไว้",
+            "ความหวังดูไกลออกไปเมื่อความอ่อนล้ายังไม่ได้รับการยอมรับอย่างแท้จริง",
+            "อย่าสับสนระหว่างความชา กับความสงบ",
+            "ดวงดาวยังคงอยู่ แม้ในเวลาที่คุณยังรับแสงนั้นได้ไม่เต็มที่"
+          ]
+        },
+        "oracle_message": {
+          "en": "Healing is already happening in the places you have stopped forcing.",
+          "th": "การเยียวยากำลังเกิดขึ้นแล้ว ในพื้นที่ที่คุณเลิกฝืน"
+        },
+        "fashion_caption": {
+          "en": "Hope, poured in silver light.",
+          "th": "ความหวังที่ถูกรินออกมาเป็นแสงสีเงิน"
+        },
+        "interpretive_note": {
+          "en": "This card channels the luminous healer. Healing is already happening in the places you have stopped forcing.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้เยียวยาด้วยแสงเรืองรอง การเยียวยากำลังเกิดขึ้นแล้ว ในพื้นที่ที่คุณเลิกฝืน"
+        },
+        "reading_focus": {
+          "en": [
+            "Healing begins where gentleness is allowed to return.",
+            "Hope reappears, not as noise, but as quiet trust.",
+            "You are being restored emotionally, spiritually, or creatively."
+          ],
+          "th": [
+            "การเยียวยาเริ่มต้นตรงจุดที่คุณยอมให้ความอ่อนโยนกลับมา",
+            "ความหวังปรากฏอีกครั้ง ไม่ใช่ในรูปของเสียงดัง แต่ในรูปของความไว้วางใจอันเงียบสงบ",
+            "คุณกำลังได้รับการฟื้นฟูทางอารมณ์ ทางจิตวิญญาณ หรือทางความสร้างสรรค์"
+          ]
+        }
+      },
+      "canonical_name": "The Star"
+    },
+    {
+      "card_id": "F18",
+      "name": {
+        "en": "The Veil",
+        "th": "ม่านจันทร์"
+      },
+      "number": 18,
+      "roman": "XVIII",
+      "guidebook": {
+        "archetype": {
+          "en": "The Nocturnal Dreamwalker",
+          "th": "ผู้เดินในราตรีแห่งจิตใต้สำนึก"
+        },
+        "symbolism": {
+          "en": [
+            "mist and ambiguity",
+            "intuition and illusion",
+            "subconscious tides",
+            "dream-state beauty",
+            "the unseen path"
+          ],
+          "th": [
+            "หมอกและความคลุมเครือ",
+            "สัญชาตญาณและภาพลวง",
+            "กระแสของจิตใต้สำนึก",
+            "ความงามในภาวะกึ่งฝัน",
+            "เส้นทางที่มองไม่ชัด"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Not everything can be understood through logic right now.",
+            "You are moving through a realm of intuition, dream, longing, and hidden fear.",
+            "What is felt may be true, but it may not yet be clear.",
+            "Proceed softly; the path reveals itself in fragments."
+          ],
+          "th": [
+            "ไม่ใช่ทุกอย่างที่จะเข้าใจได้ด้วยตรรกะในเวลานี้",
+            "คุณกำลังเดินอยู่ในพื้นที่ของสัญชาตญาณ ความฝัน ความโหยหา และความกลัวที่ซ่อนอยู่",
+            "สิ่งที่รู้สึกอาจจริง แต่ยังไม่ชัดพอจะสรุปได้ทั้งหมด",
+            "จงก้าวอย่างนุ่มนวล เพราะเส้นทางนี้เผยตัวเป็นชิ้นส่วน ไม่ใช่ทั้งหมดในคราวเดียว"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Confusion may be lifting, and what was hidden starts to take shape.",
+            "Fear loses some of its power when named.",
+            "You may also be lost in projection, fantasy, or emotional distortion.",
+            "Ground yourself before trusting every image that rises from the dark."
+          ],
+          "th": [
+            "ความสับสนอาจเริ่มคลาย และสิ่งที่เคยซ่อนอยู่เริ่มมีรูปร่างชัดขึ้น",
+            "ความกลัวจะสูญเสียพลังบางส่วนทันทีที่มันถูกเรียกชื่อ",
+            "อีกด้านหนึ่ง คุณอาจกำลังหลงอยู่ในภาพฉาย ความฝันเกินจริง หรือการบิดเบือนทางอารมณ์",
+            "ตั้งหลักให้มั่นก่อนเชื่อทุกภาพที่ลอยขึ้นมาจากความมืด"
+          ]
+        },
+        "oracle_message": {
+          "en": "Honor the mystery, but do not surrender your discernment.",
+          "th": "เคารพในความลึกลับ แต่อย่าสูญเสียการแยกแยะ"
+        },
+        "fashion_caption": {
+          "en": "Moonlight makes uncertainty beautiful.",
+          "th": "แสงจันทร์ทำให้ความไม่แน่นอนดูงดงาม"
+        },
+        "interpretive_note": {
+          "en": "This card channels the nocturnal dreamwalker. Honor the mystery, but do not surrender your discernment.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้เดินในราตรีแห่งจิตใต้สำนึก เคารพในความลึกลับ แต่อย่าสูญเสียการแยกแยะ"
+        },
+        "reading_focus": {
+          "en": [
+            "Not everything can be understood through logic right now.",
+            "You are moving through a realm of intuition, dream, longing, and hidden fear.",
+            "What is felt may be true, but it may not yet be clear."
+          ],
+          "th": [
+            "ไม่ใช่ทุกอย่างที่จะเข้าใจได้ด้วยตรรกะในเวลานี้",
+            "คุณกำลังเดินอยู่ในพื้นที่ของสัญชาตญาณ ความฝัน ความโหยหา และความกลัวที่ซ่อนอยู่",
+            "สิ่งที่รู้สึกอาจจริง แต่ยังไม่ชัดพอจะสรุปได้ทั้งหมด"
+          ]
+        }
+      },
+      "canonical_name": "The Moon"
+    },
+    {
+      "card_id": "F19",
+      "name": {
+        "en": "The Illumination",
+        "th": "การส่องประกาย"
+      },
+      "number": 19,
+      "roman": "XIX",
+      "guidebook": {
+        "archetype": {
+          "en": "The Radiant Self",
+          "th": "ตัวตนอันส่องสว่าง"
+        },
+        "symbolism": {
+          "en": [
+            "solar clarity",
+            "joy and vitality",
+            "visible truth",
+            "confidence without concealment",
+            "life in full bloom"
+          ],
+          "th": [
+            "ความชัดเจนแบบสุริยะ",
+            "ความสุขและพลังชีวิต",
+            "ความจริงที่เปิดเผย",
+            "ความมั่นใจที่ไม่ต้องซ่อน",
+            "ชีวิตที่เบ่งบานเต็มที่"
+          ]
+        },
+        "upright": {
+          "en": [
+            "Clarity, joy, and vitality return in full force.",
+            "You are seen, affirmed, and warmed by life again.",
+            "Success becomes more visible, more embodied, and more natural.",
+            "This is a card of wholehearted presence and fearless brightness."
+          ],
+          "th": [
+            "ความชัดเจน ความสุข และพลังชีวิตกำลังกลับมาอย่างเต็มกำลัง",
+            "คุณกำลังถูกมองเห็น ได้รับการยืนยัน และได้รับความอบอุ่นจากชีวิตอีกครั้ง",
+            "ความสำเร็จเริ่มปรากฏชัด มีตัวตน และเป็นธรรมชาติมากขึ้น",
+            "นี่คือไพ่แห่งการมีอยู่เต็มหัวใจ และความสว่างที่ไม่ต้องหวาดกลัว"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Joy may be present but blocked by self-consciousness, fatigue, or doubt.",
+            "You may be dimming your own light to remain acceptable to others.",
+            "Temporary clouds do not erase the sun; they only interrupt your access to it.",
+            "Let yourself receive happiness without apology."
+          ],
+          "th": [
+            "ความสุขอาจยังมีอยู่ แต่ถูกบังด้วยความไม่มั่นใจ ความอ่อนล้า หรือความลังเล",
+            "คุณอาจกำลังหรี่แสงของตัวเองลงเพื่อให้คนอื่นรู้สึกสบายใจ",
+            "เมฆชั่วคราวไม่ได้ทำให้พระอาทิตย์หายไป มันเพียงบดบังการเข้าถึงเท่านั้น",
+            "อนุญาตให้ตัวเองรับความสุขโดยไม่ต้องรู้สึกผิด"
+          ]
+        },
+        "oracle_message": {
+          "en": "You do not need to earn the right to shine.",
+          "th": "คุณไม่จำเป็นต้องพิสูจน์สิทธิ์ในการเปล่งแสง"
+        },
+        "fashion_caption": {
+          "en": "Joy, tailored in sunlight.",
+          "th": "ความสุขที่ถูกตัดเย็บด้วยแสงอาทิตย์"
+        },
+        "interpretive_note": {
+          "en": "This card channels the radiant self. You do not need to earn the right to shine.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของตัวตนอันส่องสว่าง คุณไม่จำเป็นต้องพิสูจน์สิทธิ์ในการเปล่งแสง"
+        },
+        "reading_focus": {
+          "en": [
+            "Clarity, joy, and vitality return in full force.",
+            "You are seen, affirmed, and warmed by life again.",
+            "Success becomes more visible, more embodied, and more natural."
+          ],
+          "th": [
+            "ความชัดเจน ความสุข และพลังชีวิตกำลังกลับมาอย่างเต็มกำลัง",
+            "คุณกำลังถูกมองเห็น ได้รับการยืนยัน และได้รับความอบอุ่นจากชีวิตอีกครั้ง",
+            "ความสำเร็จเริ่มปรากฏชัด มีตัวตน และเป็นธรรมชาติมากขึ้น"
+          ]
+        }
+      },
+      "canonical_name": "The Sun"
+    },
+    {
+      "card_id": "F20",
+      "name": {
+        "en": "The Awakening",
+        "th": "การตื่นรู้"
+      },
+      "number": 20,
+      "roman": "XX",
+      "guidebook": {
+        "archetype": {
+          "en": "The Awakened Call",
+          "th": "ผู้ตอบรับเสียงเรียกแห่งการตื่นรู้"
+        },
+        "symbolism": {
+          "en": [
+            "trumpet call",
+            "rays from heaven",
+            "white drapery",
+            "rebirth",
+            "collective awakening"
+          ],
+          "th": [
+            "เสียงแตรเรียก",
+            "ลำแสงจากสวรรค์",
+            "ผ้าขาวพลิ้ว",
+            "การเกิดใหม่",
+            "การตื่นรู้ร่วมกัน"
+          ]
+        },
+        "upright": {
+          "en": [
+            "A higher calling is becoming impossible to ignore.",
+            "The past can be reviewed without remaining imprisoned by it.",
+            "This is rebirth through recognition, response, and release.",
+            "Rise toward the life that truly asks for you."
+          ],
+          "th": [
+            "เสียงเรียกที่สูงกว่ากำลังดังขึ้น จนคุณเมินเฉยไม่ได้อีกต่อไป",
+            "อดีตสามารถถูกทบทวนได้ โดยไม่ต้องเป็นคุกที่กักคุณไว้ตลอด",
+            "นี่คือการเกิดใหม่ผ่านการตระหนักรู้ การตอบรับ และการปล่อยลง",
+            "จงลุกขึ้นสู่ชีวิตที่เรียกหาคุณจริงๆ"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "You may hear the call yet hesitate to answer it.",
+            "Self-judgment can be louder than revelation.",
+            "Old guilt, unfinished grief, or fear of change may delay rebirth.",
+            "Forgive enough to move."
+          ],
+          "th": [
+            "คุณอาจได้ยินเสียงเรียกแล้ว แต่ยังลังเลที่จะตอบรับ",
+            "การตัดสินตัวเองอาจดังกว่าการเปิดเผยจากภายใน",
+            "ความรู้สึกผิดเก่า ความเศร้าที่ยังไม่จบ หรือความกลัวการเปลี่ยนแปลง อาจทำให้การเกิดใหม่ล่าช้า",
+            "ให้อภัยตัวเองมากพอที่จะก้าวต่อ"
+          ]
+        },
+        "oracle_message": {
+          "en": "Answer the life that is calling you upward.",
+          "th": "ตอบรับชีวิตที่กำลังเรียกคุณให้สูงขึ้น"
+        },
+        "fashion_caption": {
+          "en": "Awakening, dressed in silver light.",
+          "th": "การตื่นรู้ที่สวมแสงสีเงิน"
+        },
+        "interpretive_note": {
+          "en": "This card channels the awakened call. Answer the life that is calling you upward.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของผู้ตอบรับเสียงเรียกแห่งการตื่นรู้ ตอบรับชีวิตที่กำลังเรียกคุณให้สูงขึ้น"
+        },
+        "reading_focus": {
+          "en": [
+            "A higher calling is becoming impossible to ignore.",
+            "The past can be reviewed without remaining imprisoned by it.",
+            "This is rebirth through recognition, response, and release."
+          ],
+          "th": [
+            "เสียงเรียกที่สูงกว่ากำลังดังขึ้น จนคุณเมินเฉยไม่ได้อีกต่อไป",
+            "อดีตสามารถถูกทบทวนได้ โดยไม่ต้องเป็นคุกที่กักคุณไว้ตลอด",
+            "นี่คือการเกิดใหม่ผ่านการตระหนักรู้ การตอบรับ และการปล่อยลง"
+          ]
+        }
+      },
+      "canonical_name": "Judgement"
+    },
+    {
+      "card_id": "F21",
+      "name": {
+        "en": "The Completion",
+        "th": "ความสมบูรณ์"
+      },
+      "number": 21,
+      "roman": "XXI",
+      "guidebook": {
+        "archetype": {
+          "en": "The Living Cosmos",
+          "th": "จักรวาลที่มีชีวิตในร่างมนุษย์"
+        },
+        "symbolism": {
+          "en": [
+            "cosmic wreath",
+            "teal and gold",
+            "four guardians",
+            "dance of completion",
+            "world embodied"
+          ],
+          "th": [
+            "พวงหรีดจักรวาล",
+            "สีหยกและทอง",
+            "ผู้พิทักษ์สี่มุม",
+            "ระบำแห่งความสมบูรณ์",
+            "โลกที่มีร่างกาย"
+          ]
+        },
+        "upright": {
+          "en": [
+            "A cycle completes in wholeness, not merely in ending.",
+            "You are integrating experience into embodied wisdom.",
+            "Achievement, arrival, and inner coherence are now possible.",
+            "What you sought outside begins to live within you."
+          ],
+          "th": [
+            "วัฏจักรกำลังจบลงด้วยความครบถ้วน ไม่ใช่เพียงการสิ้นสุด",
+            "คุณกำลังหลอมประสบการณ์ให้กลายเป็นปัญญาที่มีตัวตน",
+            "ความสำเร็จ การมาถึง และความกลมกลืนภายใน เป็นสิ่งที่เกิดขึ้นได้ในเวลานี้",
+            "สิ่งที่คุณเคยค้นหาภายนอก เริ่มมีชีวิตอยู่ภายในตัวคุณแล้ว"
+          ]
+        },
+        "reversed": {
+          "en": [
+            "Completion is near, but something has not yet been integrated.",
+            "You may be standing at fulfillment while still believing you are not enough.",
+            "Return to the final lesson instead of rushing the ending.",
+            "Wholeness requires reception as much as achievement."
+          ],
+          "th": [
+            "ความสมบูรณ์ใกล้มาถึงแล้ว แต่ยังมีบางอย่างที่คุณยังไม่ได้รับเข้าไปอย่างแท้จริง",
+            "คุณอาจยืนอยู่หน้าความสำเร็จ แต่ยังเชื่อว่าตัวเองไม่พอ",
+            "กลับไปดูบทเรียนสุดท้าย แทนที่จะรีบปิดฉากทุกอย่าง",
+            "ความครบถ้วนต้องอาศัยการยอมรับ ไม่ใช่เพียงการคว้ามา"
+          ]
+        },
+        "oracle_message": {
+          "en": "You are not becoming the world. You are remembering that you belong to it.",
+          "th": "คุณไม่ได้กำลังกลายเป็นโลก คุณกำลังจำได้ว่าเคยเป็นส่วนหนึ่งของมันอยู่แล้ว"
+        },
+        "fashion_caption": {
+          "en": "Completion, woven in teal and gold.",
+          "th": "ความสมบูรณ์ที่ถักทอด้วยหยกอมฟ้าและทอง"
+        },
+        "interpretive_note": {
+          "en": "This card channels the living cosmos. You are not becoming the world. You are remembering that you belong to it.",
+          "th": "ไพ่ใบนี้ถ่ายทอดพลังของจักรวาลที่มีชีวิตในร่างมนุษย์ คุณไม่ได้กำลังกลายเป็นโลก คุณกำลังจำได้ว่าเคยเป็นส่วนหนึ่งของมันอยู่แล้ว"
+        },
+        "reading_focus": {
+          "en": [
+            "A cycle completes in wholeness, not merely in ending.",
+            "You are integrating experience into embodied wisdom.",
+            "Achievement, arrival, and inner coherence are now possible."
+          ],
+          "th": [
+            "วัฏจักรกำลังจบลงด้วยความครบถ้วน ไม่ใช่เพียงการสิ้นสุด",
+            "คุณกำลังหลอมประสบการณ์ให้กลายเป็นปัญญาที่มีตัวตน",
+            "ความสำเร็จ การมาถึง และความกลมกลืนภายใน เป็นสิ่งที่เกิดขึ้นได้ในเวลานี้"
+          ]
+        }
+      },
+      "canonical_name": "The World"
+    }
+  ]
+}

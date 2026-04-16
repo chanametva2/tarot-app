@@ -1,0 +1,36 @@
+[
+  {
+    "deck_id": "deck_002_dhamma_path_tarot",
+    "slug": "dhamma-path-tarot",
+    "title": {
+      "th": "ไพ่พุทธธรรมทาโรต์",
+      "en": "The Dhamma Path Tarot"
+    },
+    "subtitle": {
+      "th": "การเดินทางแห่งญาณรู้",
+      "en": "The Journey of Insight"
+    },
+    "author": "Chanamet Vakulchai",
+    "card_count": 78,
+    "has_minor_arcana": true,
+    "path": "dhamma-path-tarot"
+  },
+  {
+    "deck_id": "deck_003_asian_vogue_tarot",
+    "slug": "asian-vogue-tarot",
+    "title": {
+      "th": "The Archetype: Asian Vogue Tarot",
+      "en": "The Archetype: Asian Vogue Tarot"
+    },
+    "subtitle": {
+      "th": "Limited Edition: The Luminous Skin Series",
+      "en": "Limited Edition: The Luminous Skin Series"
+    },
+    "author": "Chanamet Vakulchai",
+    "card_count": 22,
+    "has_minor_arcana": false,
+    "has_lookbook": true,
+    "has_guidebook": true,
+    "path": "asian-vogue-tarot"
+  }
+]

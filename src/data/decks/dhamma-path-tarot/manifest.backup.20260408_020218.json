@@ -1,0 +1,84 @@
+{
+  "deck_id": "deck_002_dhamma_path_tarot",
+  "slug": "dhamma-path-tarot",
+  "title": {
+    "th": "ไพ่พุทธธรรมทาโรต์",
+    "en": "The Dhamma Path Tarot"
+  },
+  "subtitle": {
+    "th": "การเดินทางแห่งญาณรู้",
+    "en": "The Journey of Insight"
+  },
+  "author": "Chanamet Vakulchai",
+  "language_support": [
+    "th",
+    "en"
+  ],
+  "card_count": 78,
+  "structure": {
+    "major": 22,
+    "minor": 56,
+    "minor_suits": [
+      {
+        "suit_key": "dukkha",
+        "name": {
+          "th": "ชุดดาบ",
+          "en": "Suit of Dukkha"
+        },
+        "legacy_name_en": "Swords",
+        "count": 14
+      },
+      {
+        "suit_key": "samudaya",
+        "name": {
+          "th": "ชุดถ้วย",
+          "en": "Suit of Samudaya"
+        },
+        "legacy_name_en": "Cups",
+        "count": 14
+      },
+      {
+        "suit_key": "nirodha",
+        "name": {
+          "th": "ชุดเหรียญ",
+          "en": "Suit of Nirodha"
+        },
+        "legacy_name_en": "Pentacles",
+        "count": 14
+      },
+      {
+        "suit_key": "magga",
+        "name": {
+          "th": "ชุดไม้เท้า",
+          "en": "Suit of Magga"
+        },
+        "legacy_name_en": "Wands",
+        "count": 14
+      }
+    ]
+  },
+  "assets": {
+    "cover_image": "images/cover.jpg",
+    "back_image": "images/back.jpg"
+  },
+  "naming": {
+    "major_card_id_pattern": "F00-F21",
+    "minor_card_id_patterns": [
+      "D01-D14",
+      "S01-S14",
+      "N01-N14",
+      "M01-M14"
+    ],
+    "image_extension": ".jpg"
+  },
+  "source": {
+    "type": "manual_pdf",
+    "filename": "manual.pdf"
+  },
+  "notes": {
+    "th": "ไฟล์ฉบับ bilingual นี้รวมภาษาไทยและภาษาอังกฤษไว้ในโครงเดียวกัน โดยเนื้อหา Minor Arcana ถูกปรับให้ยึดตามคู่มือสำรับนี้ และเติมภาษาอังกฤษครบทั้ง 4 ชุดแล้ว",
+    "en": "This bilingual edition keeps Thai and English in a single schema. Minor Arcana meanings are aligned to this deck’s manual-based system, and English has been completed across all four suits."
+  },
+  "english_status": "polished_bilingual_manual_aligned",
+  "notes_en": "English wording has been polished for consistency and readability while preserving the deck's Buddhism-centered interpretive framework."
+}
