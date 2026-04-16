@@ -58,8 +58,8 @@
     ]
   },
   "assets": {
-    "cover_image": "images/cover.jpg",
-    "back_image": "images/back.jpg"
+    "cover_image": "images/cover.webp",
+    "back_image": "images/back.webp"
   },
   "naming": {
     "major_card_id_pattern": "F00-F21",
@@ -69,7 +69,7 @@
       "N01-N14",
       "M01-M14"
     ],
-    "image_extension": ".jpg"
+    "image_extension": ".webp"
   },
   "card_aspect_ratio": "2:3",
   "source": {

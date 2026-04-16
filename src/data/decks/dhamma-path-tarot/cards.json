@@ -2,7 +2,7 @@
   {
     "card_id": "F00",
     "arcana": "major",
-    "image": "images/F00.jpg",
+    "image": "images/F00.webp",
     "name": {
       "th": "เจ้าชายสิทธัตถะ",
       "en": "The Fool"
@@ -14,7 +14,7 @@
   {
     "card_id": "F01",
     "arcana": "major",
-    "image": "images/F01.jpg",
+    "image": "images/F01.webp",
     "name": {
       "th": "สหชาติ (The Birth)",
       "en": "The Magician"
@@ -26,7 +26,7 @@
   {
     "card_id": "F02",
     "arcana": "major",
-    "image": "images/F02.jpg",
+    "image": "images/F02.webp",
     "name": {
       "th": "พระสุบินนิมิต (Queen Maya’s Dream)",
       "en": "The High Priestess"
@@ -38,7 +38,7 @@
   {
     "card_id": "F03",
     "arcana": "major",
-    "image": "images/F03.jpg",
+    "image": "images/F03.webp",
     "name": {
       "th": "พระนางสิริมหามายา (พระพุทธมารดา)",
       "en": "The Empress"
@@ -50,7 +50,7 @@
   {
     "card_id": "F04",
     "arcana": "major",
-    "image": "images/F04.jpg",
+    "image": "images/F04.webp",
     "name": {
       "th": "พระเจ้าสุทโธทนะ",
       "en": "The Emperor"
@@ -62,7 +62,7 @@
   {
     "card_id": "F05",
     "arcana": "major",
-    "image": "images/F05.jpg",
+    "image": "images/F05.webp",
     "name": {
       "th": "พระดาบส",
       "en": "The Hierophant"
@@ -74,7 +74,7 @@
   {
     "card_id": "F06",
     "arcana": "major",
-    "image": "images/F06.jpg",
+    "image": "images/F06.webp",
     "name": {
       "th": "บ่วงอาลัย",
       "en": "The Lovers"
@@ -86,7 +86,7 @@
   {
     "card_id": "F07",
     "arcana": "major",
-    "image": "images/F07.jpg",
+    "image": "images/F07.webp",
     "name": {
       "th": "มหาภิเนษกรมณ์ (The Great Renunciation)",
       "en": "The Chariot"
@@ -98,7 +98,7 @@
   {
     "card_id": "F08",
     "arcana": "major",
-    "image": "images/F08.jpg",
+    "image": "images/F08.webp",
     "name": {
       "th": "การปลงผม (The Great Renunciation)",
       "en": "Strength"
@@ -110,7 +110,7 @@
   {
     "card_id": "F09",
     "arcana": "major",
-    "image": "images/F09.jpg",
+    "image": "images/F09.webp",
     "name": {
       "th": "บำเพ็ญทุกขรกิริยา",
       "en": "The Hermit"
@@ -122,7 +122,7 @@
   {
     "card_id": "F10",
     "arcana": "major",
-    "image": "images/F10.jpg",
+    "image": "images/F10.webp",
     "name": {
       "th": "ถาดทองลอยทวนน้ำ",
       "en": "Wheel of Fortune"
@@ -134,7 +134,7 @@
   {
     "card_id": "F11",
     "arcana": "major",
-    "image": "images/F11.jpg",
+    "image": "images/F11.webp",
     "name": {
       "th": "พิณสามสาย",
       "en": "Justice"
@@ -146,7 +146,7 @@
   {
     "card_id": "F12",
     "arcana": "major",
-    "image": "images/F12.jpg",
+    "image": "images/F12.webp",
     "name": {
       "th": "สัจจะอธิษฐาน",
       "en": "The Hanged Man"
@@ -158,7 +158,7 @@
   {
     "card_id": "F13",
     "arcana": "major",
-    "image": "images/F13.jpg",
+    "image": "images/F13.webp",
     "name": {
       "th": "พญามารกรีธาทัพ",
       "en": "Death"
@@ -170,7 +170,7 @@
   {
     "card_id": "F14",
     "arcana": "major",
-    "image": "images/F14.jpg",
+    "image": "images/F14.webp",
     "name": {
       "th": "พระแม่ธรณีบีบมวยผม",
       "en": "Temperance"
@@ -182,7 +182,7 @@
   {
     "card_id": "F15",
     "arcana": "major",
-    "image": "images/F15.jpg",
+    "image": "images/F15.webp",
     "name": {
       "th": "ธิดามาร",
       "en": "The Devil"
@@ -194,7 +194,7 @@
   {
     "card_id": "F16",
     "arcana": "major",
-    "image": "images/F16.jpg",
+    "image": "images/F16.webp",
     "name": {
       "th": "การทำลายเรือนแห่งตัณหา",
       "en": "The Tower"
@@ -206,7 +206,7 @@
   {
     "card_id": "F17",
     "arcana": "major",
-    "image": "images/F17.jpg",
+    "image": "images/F17.webp",
     "name": {
       "th": "เสวยวิมุตติสุขและพญานาคปรก",
       "en": "The Star"
@@ -218,7 +218,7 @@
   {
     "card_id": "F18",
     "arcana": "major",
-    "image": "images/F18.jpg",
+    "image": "images/F18.webp",
     "name": {
       "th": "บัวสี่เหล่า",
       "en": "The Moon"
@@ -230,7 +230,7 @@
   {
     "card_id": "F19",
     "arcana": "major",
-    "image": "images/F19.jpg",
+    "image": "images/F19.webp",
     "name": {
       "th": "ปฐมเทศนา",
       "en": "The Sun"
@@ -242,7 +242,7 @@
   {
     "card_id": "F20",
     "arcana": "major",
-    "image": "images/F20.jpg",
+    "image": "images/F20.webp",
     "name": {
       "th": "เปิดโลก",
       "en": "Judgement"
@@ -254,7 +254,7 @@
   {
     "card_id": "F21",
     "arcana": "major",
-    "image": "images/F21.jpg",
+    "image": "images/F21.webp",
     "name": {
       "th": "ปรินิพพาน",
       "en": "The World"
@@ -266,7 +266,7 @@
   {
     "card_id": "D01",
     "arcana": "minor",
-    "image": "images/D01.jpg",
+    "image": "images/D01.webp",
     "name": {
       "th": "ชาติทุกข์",
       "en": "Birth as Suffering"
@@ -286,7 +286,7 @@
   {
     "card_id": "D02",
     "arcana": "minor",
-    "image": "images/D02.jpg",
+    "image": "images/D02.webp",
     "name": {
       "th": "วิจิกิจฉา",
       "en": "Doubt"
@@ -306,7 +306,7 @@
   {
     "card_id": "D03",
     "arcana": "minor",
-    "image": "images/D03.jpg",
+    "image": "images/D03.webp",
     "name": {
       "th": "โสกะ",
       "en": "Sorrow"
@@ -326,7 +326,7 @@
   {
     "card_id": "D04",
     "arcana": "minor",
-    "image": "images/D04.jpg",
+    "image": "images/D04.webp",
     "name": {
       "th": "พยาธิ",
       "en": "Illness"
@@ -346,7 +346,7 @@
   {
     "card_id": "D05",
     "arcana": "minor",
-    "image": "images/D05.jpg",
+    "image": "images/D05.webp",
     "name": {
       "th": "โทสะ",
       "en": "Anger"
@@ -366,7 +366,7 @@
   {
     "card_id": "D06",
     "arcana": "minor",
-    "image": "images/D06.jpg",
+    "image": "images/D06.webp",
     "name": {
       "th": "พลัดพราก",
       "en": "Separation"
@@ -386,7 +386,7 @@
   {
     "card_id": "D07",
     "arcana": "minor",
-    "image": "images/D07.jpg",
+    "image": "images/D07.webp",
     "name": {
       "th": "มายา",
       "en": "Illusion"
@@ -406,7 +406,7 @@
   {
     "card_id": "D08",
     "arcana": "minor",
-    "image": "images/D08.jpg",
+    "image": "images/D08.webp",
     "name": {
       "th": "พันธนาการ",
       "en": "Bondage"
@@ -426,7 +426,7 @@
   {
     "card_id": "D09",
     "arcana": "minor",
-    "image": "images/D09.jpg",
+    "image": "images/D09.webp",
     "name": {
       "th": "อุทธัจจะ",
       "en": "Restlessness"
@@ -446,7 +446,7 @@
   {
     "card_id": "D10",
     "arcana": "minor",
-    "image": "images/D10.jpg",
+    "image": "images/D10.webp",
     "name": {
       "th": "มรณะ",
       "en": "Death"
@@ -466,7 +466,7 @@
   {
     "card_id": "D11",
     "arcana": "minor",
-    "image": "images/D11.jpg",
+    "image": "images/D11.webp",
     "name": {
       "th": "ผู้ทรงธรรม",
       "en": "Guardian of the Dhamma"
@@ -486,7 +486,7 @@
   {
     "card_id": "D12",
     "arcana": "minor",
-    "image": "images/D12.jpg",
+    "image": "images/D12.webp",
     "name": {
       "th": "พระองคุลีมาล",
       "en": "Angulimala"
@@ -506,7 +506,7 @@
   {
     "card_id": "D13",
     "arcana": "minor",
-    "image": "images/D13.jpg",
+    "image": "images/D13.webp",
     "name": {
       "th": "พระปฏาจาราเถรี",
       "en": "Patacara Theri"
@@ -526,7 +526,7 @@
   {
     "card_id": "D14",
     "arcana": "minor",
-    "image": "images/D14.jpg",
+    "image": "images/D14.webp",
     "name": {
       "th": "พระมหากัสสปะ",
       "en": "Maha Kassapa"
@@ -546,7 +546,7 @@
   {
     "card_id": "S01",
     "arcana": "minor",
-    "image": "images/S01.jpg",
+    "image": "images/S01.webp",
     "name": {
       "th": "กามตัณหา",
       "en": "Sensual Craving"
@@ -566,7 +566,7 @@
   {
     "card_id": "S02",
     "arcana": "minor",
-    "image": "images/S02.jpg",
+    "image": "images/S02.webp",
     "name": {
       "th": "ความผูกพัน",
       "en": "Attachment"
@@ -586,7 +586,7 @@
   {
     "card_id": "S03",
     "arcana": "minor",
-    "image": "images/S03.jpg",
+    "image": "images/S03.webp",
     "name": {
       "th": "ความมัวเมา",
       "en": "Intoxication"
@@ -606,7 +606,7 @@
   {
     "card_id": "S04",
     "arcana": "minor",
-    "image": "images/S04.jpg",
+    "image": "images/S04.webp",
     "name": {
       "th": "ความเบื่อหน่าย",
       "en": "Disenchantment"
@@ -626,7 +626,7 @@
   {
     "card_id": "S05",
     "arcana": "minor",
-    "image": "images/S05.jpg",
+    "image": "images/S05.webp",
     "name": {
       "th": "ความอาลัย",
       "en": "Grief and Longing"
@@ -646,7 +646,7 @@
   {
     "card_id": "S06",
     "arcana": "minor",
-    "image": "images/S06.jpg",
+    "image": "images/S06.webp",
     "name": {
       "th": "สัญญาเก่า",
       "en": "Old Perceptions"
@@ -666,7 +666,7 @@
   {
     "card_id": "S07",
     "arcana": "minor",
-    "image": "images/S07.jpg",
+    "image": "images/S07.webp",
     "name": {
       "th": "วิมานในอากาศ",
       "en": "Castles in the Air"
@@ -686,7 +686,7 @@
   {
     "card_id": "S08",
     "arcana": "minor",
-    "image": "images/S08.jpg",
+    "image": "images/S08.webp",
     "name": {
       "th": "การละทิ้ง",
       "en": "Renunciation"
@@ -706,7 +706,7 @@
   {
     "card_id": "S09",
     "arcana": "minor",
-    "image": "images/S09.jpg",
+    "image": "images/S09.webp",
     "name": {
       "th": "มานะทิฏฐิ",
       "en": "Pride and View"
@@ -726,7 +726,7 @@
   {
     "card_id": "S10",
     "arcana": "minor",
-    "image": "images/S10.jpg",
+    "image": "images/S10.webp",
     "name": {
       "th": "วิมาน",
       "en": "The Celestial Mansion"
@@ -746,7 +746,7 @@
   {
     "card_id": "S11",
     "arcana": "minor",
-    "image": "images/S11.jpg",
+    "image": "images/S11.webp",
     "name": {
       "th": "นางวิสาขา",
       "en": "Visakha"
@@ -766,7 +766,7 @@
   {
     "card_id": "S12",
     "arcana": "minor",
-    "image": "images/S12.jpg",
+    "image": "images/S12.webp",
     "name": {
       "th": "พระนันทะ",
       "en": "Nanda"
@@ -786,7 +786,7 @@
   {
     "card_id": "S13",
     "arcana": "minor",
-    "image": "images/S13.jpg",
+    "image": "images/S13.webp",
     "name": {
       "th": "พระนางพิมพาเถรี",
       "en": "Yasodhara Theri"
@@ -806,7 +806,7 @@
   {
     "card_id": "S14",
     "arcana": "minor",
-    "image": "images/S14.jpg",
+    "image": "images/S14.webp",
     "name": {
       "th": "พระอานนท์",
       "en": "Ananda"
@@ -826,7 +826,7 @@
   {
     "card_id": "N01",
     "arcana": "minor",
-    "image": "images/N01.jpg",
+    "image": "images/N01.webp",
     "name": {
       "th": "นิโรธ (ความดับทุกข์)",
       "en": "Nirodha (Cessation of Suffering)"
@@ -846,7 +846,7 @@
   {
     "card_id": "N02",
     "arcana": "minor",
-    "image": "images/N02.jpg",
+    "image": "images/N02.webp",
     "name": {
       "th": "การทรงอารมณ์",
       "en": "Emotional Balance"
@@ -866,7 +866,7 @@
   {
     "card_id": "N03",
     "arcana": "minor",
-    "image": "images/N03.jpg",
+    "image": "images/N03.webp",
     "name": {
       "th": "สัมมาทิฏฐิ",
       "en": "Right View"
@@ -886,7 +886,7 @@
   {
     "card_id": "N04",
     "arcana": "minor",
-    "image": "images/N04.jpg",
+    "image": "images/N04.webp",
     "name": {
       "th": "สัมมาสมาธิ",
       "en": "Right Concentration"
@@ -906,7 +906,7 @@
   {
     "card_id": "N05",
     "arcana": "minor",
-    "image": "images/N05.jpg",
+    "image": "images/N05.webp",
     "name": {
       "th": "ความขัดสน (ตบะ)",
       "en": "Poverty and Austerity"
@@ -926,7 +926,7 @@
   {
     "card_id": "N06",
     "arcana": "minor",
-    "image": "images/N06.jpg",
+    "image": "images/N06.webp",
     "name": {
       "th": "ทานบารมี",
       "en": "The Perfection of Giving"
@@ -946,7 +946,7 @@
   {
     "card_id": "N07",
     "arcana": "minor",
-    "image": "images/N07.jpg",
+    "image": "images/N07.webp",
     "name": {
       "th": "กฎแห่งกรรม",
       "en": "The Law of Kamma"
@@ -966,7 +966,7 @@
   {
     "card_id": "N08",
     "arcana": "minor",
-    "image": "images/N08.jpg",
+    "image": "images/N08.webp",
     "name": {
       "th": "สัมมาอาชีวะ",
       "en": "Right Livelihood"
@@ -986,7 +986,7 @@
   {
     "card_id": "N09",
     "arcana": "minor",
-    "image": "images/N09.jpg",
+    "image": "images/N09.webp",
     "name": {
       "th": "วิเวกสุข",
       "en": "The Joy of Seclusion"
@@ -1006,7 +1006,7 @@
   {
     "card_id": "N10",
     "arcana": "minor",
-    "image": "images/N10.jpg",
+    "image": "images/N10.webp",
     "name": {
       "th": "อริยทรัพย์",
       "en": "Noble Wealth"
@@ -1026,7 +1026,7 @@
   {
     "card_id": "N11",
     "arcana": "minor",
-    "image": "images/N11.jpg",
+    "image": "images/N11.webp",
     "name": {
       "th": "อนาถบิณฑิกเศรษฐี",
       "en": "Anathapindika"
@@ -1046,7 +1046,7 @@
   {
     "card_id": "N12",
     "arcana": "minor",
-    "image": "images/N12.jpg",
+    "image": "images/N12.webp",
     "name": {
       "th": "พระอนุรุทธะ",
       "en": "Anuruddha"
@@ -1066,7 +1066,7 @@
   {
     "card_id": "N13",
     "arcana": "minor",
-    "image": "images/N13.jpg",
+    "image": "images/N13.webp",
     "name": {
       "th": "พระนางอัมพปาลีเถรี",
       "en": "Ambapali Theri"
@@ -1086,7 +1086,7 @@
   {
     "card_id": "N14",
     "arcana": "minor",
-    "image": "images/N14.jpg",
+    "image": "images/N14.webp",
     "name": {
       "th": "พระสีวลีเถระ",
       "en": "Sivali Thera"
@@ -1106,7 +1106,7 @@
   {
     "card_id": "M01",
     "arcana": "minor",
-    "image": "images/M01.jpg",
+    "image": "images/M01.webp",
     "name": {
       "th": "สัมมาทิฏฐิ",
       "en": "Right View"
@@ -1126,7 +1126,7 @@
   {
     "card_id": "M02",
     "arcana": "minor",
-    "image": "images/M02.jpg",
+    "image": "images/M02.webp",
     "name": {
       "th": "สัมมาสังกัปปะ",
       "en": "Right Intention"
@@ -1146,7 +1146,7 @@
   {
     "card_id": "M03",
     "arcana": "minor",
-    "image": "images/M03.jpg",
+    "image": "images/M03.webp",
     "name": {
       "th": "การเผยแผ่",
       "en": "The Spreading of the Dhamma"
@@ -1166,7 +1166,7 @@
   {
     "card_id": "M04",
     "arcana": "minor",
-    "image": "images/M04.jpg",
+    "image": "images/M04.webp",
     "name": {
       "th": "สัมมากัมมันตะ (ความสามัคคี)",
       "en": "Right Action (Harmony)"
@@ -1186,7 +1186,7 @@
   {
     "card_id": "M05",
     "arcana": "minor",
-    "image": "images/M05.jpg",
+    "image": "images/M05.webp",
     "name": {
       "th": "ความขัดแย้ง (นิวรณ์)",
       "en": "Conflict (Hindrances)"
@@ -1206,7 +1206,7 @@
   {
     "card_id": "M06",
     "arcana": "minor",
-    "image": "images/M06.jpg",
+    "image": "images/M06.webp",
     "name": {
       "th": "ชัยชนะ (ความเพียร)",
       "en": "Victory through Effort"
@@ -1226,7 +1226,7 @@
   {
     "card_id": "M07",
     "arcana": "minor",
-    "image": "images/M07.jpg",
+    "image": "images/M07.webp",
     "name": {
       "th": "สัมมาสติ (การรักษา)",
       "en": "Right Mindfulness (Protection)"
@@ -1246,7 +1246,7 @@
   {
     "card_id": "M08",
     "arcana": "minor",
-    "image": "images/M08.jpg",
+    "image": "images/M08.webp",
     "name": {
       "th": "ญาณหยั่งรู้ (ความรวดเร็ว)",
       "en": "Penetrating Insight (Swiftness)"
@@ -1266,7 +1266,7 @@
   {
     "card_id": "M09",
     "arcana": "minor",
-    "image": "images/M09.jpg",
+    "image": "images/M09.webp",
     "name": {
       "th": "ขันติบารมี",
       "en": "The Perfection of Patience"
@@ -1286,7 +1286,7 @@
   {
     "card_id": "M10",
     "arcana": "minor",
-    "image": "images/M10.jpg",
+    "image": "images/M10.webp",
     "name": {
       "th": "ขันธ์ 5 (ภาระ)",
       "en": "The Five Aggregates (Burden)"
@@ -1306,7 +1306,7 @@
   {
     "card_id": "M11",
     "arcana": "minor",
-    "image": "images/M11.jpg",
+    "image": "images/M11.webp",
     "name": {
       "th": "จิตตคฤหบดี",
       "en": "Citta the Householder"
@@ -1326,7 +1326,7 @@
   {
     "card_id": "M12",
     "arcana": "minor",
-    "image": "images/M12.jpg",
+    "image": "images/M12.webp",
     "name": {
       "th": "พระมหาโมคคัลลานะ",
       "en": "Maha Moggallana"
@@ -1346,7 +1346,7 @@
   {
     "card_id": "M13",
     "arcana": "minor",
-    "image": "images/M13.jpg",
+    "image": "images/M13.webp",
     "name": {
       "th": "พระนางเขมาเถรี",
       "en": "Khema Theri"
@@ -1366,7 +1366,7 @@
   {
     "card_id": "M14",
     "arcana": "minor",
-    "image": "images/M14.jpg",
+    "image": "images/M14.webp",
     "name": {
       "th": "พระสารีบุตร",
       "en": "Sariputta"
