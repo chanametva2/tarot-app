@@ -94,13 +94,19 @@ export const authOptions: NextAuthOptions = {
       return true;
     },
     async jwt({ token, user, account }) {
-      if (user) {
+      if (account?.provider === 'google') {
+        token.googleAccessToken = account.access_token;
+        const googleSub = account.providerAccountId;
+        const member = await getMemberByGoogleSub(googleSub);
+        if (member) {
+          token.id = member.member_id;
+          token.role = member.role;
+          token.status = member.status;
+        }
+      } else if (user) {
         token.id = user.id;
         token.role = (user as any).role;
         token.status = (user as any).status;
-      }
-      if (account?.provider === 'google') {
-        token.googleAccessToken = account.access_token;
       }
       return token;
     },
