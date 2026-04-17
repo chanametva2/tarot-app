@@ -2,28 +2,52 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
+import { useSession } from 'next-auth/react';
+import { useRouter } from 'next/navigation';
+import { useEffect } from 'react';
 import { getAllDecks } from '@/lib/tarot/deckLoader';
 import { useLanguage } from '@/components/ui/LanguageContext';
 import { LanguageToggle } from '@/components/ui/LanguageContext';
+import { UserMenu } from '@/components/ui/UserMenu';
 
 function getDeckCoverImage(deckSlug: string): string {
   if (deckSlug === 'dhamma-path-tarot') {
-    return '/images/decks/dhamma-path-tarot/images/cover.jpg';
+    return '/images/decks/dhamma-path-tarot/images/cover.webp';
   }
   if (deckSlug === 'asian-vogue-tarot') {
-    return '/images/decks/asian-vogue-tarot/images/cover.png';
+    return '/images/decks/asian-vogue-tarot/images/cover.webp';
   }
-  return '/images/decks/${deckSlug}/images/cover.png';
+  return '/images/decks/${deckSlug}/images/cover.webp';
 }
 
 export default function DeckSelectionPage() {
+  const { data: session, status } = useSession();
+  const router = useRouter();
   const { lang } = useLanguage();
   const decks = getAllDecks();
+
+  useEffect(() => {
+    if (status === 'unauthenticated') {
+      router.push('/login');
+    }
+  }, [status, router]);
+
+  if (status === 'loading') {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-amber-900 via-amber-800 to-amber-900">
+        <div className="text-amber-100 text-xl">Loading...</div>
+      </div>
+    );
+  }
+
+  if (status === 'unauthenticated') {
+    return null;
+  }
 
   return (
     <div className="min-h-screen flex flex-col">
       <header className="flex justify-between items-center p-4">
-        <div className="flex gap-4 text-sm">
+        <div className="flex gap-4 text-sm items-center">
           <Link href="/journal" className="text-amber-200/70 hover:text-amber-100 transition-colors">
             📖 {lang === 'th' ? 'สมุดบันทึก' : 'Journal'}
           </Link>
@@ -31,7 +55,10 @@ export default function DeckSelectionPage() {
             ★ {lang === 'th' ? 'ชอบ' : 'Favorites'}
           </Link>
         </div>
-        <LanguageToggle />
+        <div className="flex items-center gap-4">
+          <UserMenu />
+          <LanguageToggle />
+        </div>
       </header>
 
       <main className="flex-1 flex flex-col items-center px-6 py-8">

@@ -34,10 +34,10 @@ export async function POST(request: NextRequest) {
       google_sub: '',
       name,
       role: 'user',
-      status: 'active',
+      status: 'pending',
     });
 
-    return NextResponse.json({ success: true });
+    return NextResponse.json({ success: true, message: 'Registration successful. Please wait for admin approval.' });
   } catch (error) {
     console.error('Registration error:', error);
     return NextResponse.json(

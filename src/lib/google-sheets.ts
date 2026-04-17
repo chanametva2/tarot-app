@@ -18,6 +18,8 @@ function getServiceAccount() {
   };
 }
 
+export type MemberStatus = 'pending' | 'active' | 'inactive' | 'banned';
+
 export interface Member {
   member_id: string;
   email: string;
@@ -25,9 +27,11 @@ export interface Member {
   google_sub: string;
   name: string;
   role: 'user' | 'admin';
-  status: 'active' | 'inactive' | 'banned';
+  status: MemberStatus;
   created_at: string;
   last_login: string;
+  approved_by?: string;
+  approved_at?: string;
 }
 
 const sheets = google.sheets('v4');
@@ -46,7 +50,7 @@ export async function getMembers(): Promise<Member[]> {
   
   const response = await sheets.spreadsheets.values.get({
     spreadsheetId: SHEET_ID,
-    range: 'members!A2:I',
+    range: 'members!A2:K',
     auth: client as any,
   });
 
@@ -59,9 +63,11 @@ export async function getMembers(): Promise<Member[]> {
     google_sub: row[3] || '',
     name: row[4] || '',
     role: (row[5] || 'user') as 'user' | 'admin',
-    status: (row[6] || 'active') as 'active' | 'inactive' | 'banned',
+    status: (row[6] || 'pending') as MemberStatus,
     created_at: row[7] || '',
     last_login: row[8] || '',
+    approved_by: row[9] || '',
+    approved_at: row[10] || '',
   }));
 }
 
@@ -121,4 +127,39 @@ export async function updateMemberLastLogin(memberId: string): Promise<void> {
       values: [[now]],
     },
   });
+}
+
+export async function updateMemberStatus(
+  memberId: string,
+  status: MemberStatus,
+  approvedBy?: string
+): Promise<void> {
+  const members = await getMembers();
+  const rowIndex = members.findIndex(m => m.member_id === memberId);
+  
+  if (rowIndex === -1) return;
+  
+  const auth = getAuth();
+  const client = await auth.getClient();
+  const now = new Date().toISOString();
+  
+  await sheets.spreadsheets.values.update({
+    spreadsheetId: SHEET_ID,
+    range: `members!G${rowIndex + 2}:K${rowIndex + 2}`,
+    valueInputOption: 'RAW',
+    auth: client as any,
+    requestBody: {
+      values: [[status, members[rowIndex].created_at, members[rowIndex].last_login, approvedBy || '', approvedBy ? now : '']],
+    },
+  });
+}
+
+export async function getMemberById(memberId: string): Promise<Member | null> {
+  const members = await getMembers();
+  return members.find(m => m.member_id === memberId) || null;
+}
+
+export async function getPendingMembers(): Promise<Member[]> {
+  const members = await getMembers();
+  return members.filter(m => m.status === 'pending');
 }

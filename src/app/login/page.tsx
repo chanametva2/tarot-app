@@ -1,18 +1,28 @@
 'use client';
 
 import { signIn, useSession } from 'next-auth/react';
-import { useRouter } from 'next/navigation';
-import { useState, useEffect } from 'react';
+import { useRouter, useSearchParams } from 'next/navigation';
+import { useState, useEffect, Suspense } from 'react';
 
-export default function LoginPage() {
+function LoginForm() {
   const { data: session, status } = useSession();
   const router = useRouter();
+  const searchParams = useSearchParams();
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [isRegister, setIsRegister] = useState(false);
   const [name, setName] = useState('');
   const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    const errorParam = searchParams.get('error');
+    if (errorParam === 'pending') {
+      setError('Your account is pending approval. Please wait for admin to approve.');
+    } else if (errorParam === 'inactive') {
+      setError('Your account has been deactivated.');
+    }
+  }, [searchParams]);
 
   useEffect(() => {
     if (status === 'authenticated') {
@@ -60,22 +70,17 @@ export default function LoginPage() {
         return;
       }
 
-      const result = await signIn('credentials', {
-        email,
-        password,
-        redirect: false,
-      });
-
-      if (result?.error) {
-        setError('Account created but login failed. Please try again.');
-      } else {
-        router.push('/decks');
-      }
+      setError('');
+      setLoading(false);
+      setIsRegister(false);
+      setEmail('');
+      setPassword('');
+      setName('');
+      alert('Registration successful! Please wait for admin approval before logging in.');
     } catch (err) {
       setError('Registration failed');
+      setLoading(false);
     }
-
-    setLoading(false);
   };
 
   const handleGoogleLogin = () => {
@@ -212,5 +217,17 @@ export default function LoginPage() {
         </button>
       </div>
     </div>
+  );
+}
+
+export default function LoginPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-amber-900 via-amber-800 to-amber-900">
+        <div className="text-amber-100 text-xl">Loading...</div>
+      </div>
+    }>
+      <LoginForm />
+    </Suspense>
   );
 }

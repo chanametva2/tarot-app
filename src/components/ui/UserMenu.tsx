@@ -68,6 +68,15 @@ export function UserMenu() {
           >
             My Favorites
           </Link>
+          {(session.user as any).role === 'admin' && (
+            <Link
+              href="/admin/users"
+              className="block px-4 py-2 text-purple-400 hover:text-purple-300 hover:bg-amber-900/30 transition"
+              onClick={() => setIsOpen(false)}
+            >
+              Admin Panel
+            </Link>
+          )}
           <button
             onClick={() => signOut({ callbackUrl: '/login' })}
             className="w-full text-left px-4 py-2 text-red-400 hover:text-red-300 hover:bg-amber-900/30 transition"

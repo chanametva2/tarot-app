@@ -2,7 +2,7 @@ import NextAuth, { NextAuthOptions } from 'next-auth';
 import GoogleProvider from 'next-auth/providers/google';
 import CredentialsProvider from 'next-auth/providers/credentials';
 import bcrypt from 'bcryptjs';
-import { getMemberByEmail, getMemberByGoogleSub, createMember, updateMemberLastLogin, Member } from './google-sheets';
+import { getMemberByEmail, getMemberByGoogleSub, createMember, updateMemberLastLogin } from './google-sheets';
 
 function generateMemberId(): string {
   return 'M' + Date.now().toString(36).toUpperCase() + Math.random().toString(36).substring(2, 6).toUpperCase();
@@ -28,6 +28,10 @@ export const authOptions: NextAuthOptions = {
         const member = await getMemberByEmail(credentials.email);
         
         if (!member) {
+          return null;
+        }
+
+        if (member.status === 'pending') {
           return null;
         }
 
@@ -74,13 +78,17 @@ export const authOptions: NextAuthOptions = {
             google_sub: googleSub,
             name,
             role: 'user',
-            status: 'active',
+            status: 'pending',
           });
-          member = await getMemberByGoogleSub(googleSub);
+          return '/login?error=pending';
         }
         
-        if (member && member.status !== 'active') {
-          return false;
+        if (member.status === 'pending') {
+          return '/login?error=pending';
+        }
+        
+        if (member.status !== 'active') {
+          return '/login?error=inactive';
         }
       }
       return true;
