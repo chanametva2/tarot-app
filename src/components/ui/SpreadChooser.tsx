@@ -6,6 +6,7 @@ import { LanguageToggle } from '@/components/ui/LanguageContext';
 import { getDeckManifest, getCardById, getMeaningByCardId, getAllSpreads } from '@/lib/tarot/loader';
 import { useLanguage } from '@/components/ui/LanguageContext';
 import { getDailyCardId, getFormattedDate } from '@/lib/tarot/daily';
+import { UserMenu } from '@/components/ui/UserMenu';
 
 export function SpreadChooser() {
   const { lang } = useLanguage();
@@ -18,7 +19,7 @@ export function SpreadChooser() {
   return (
     <div className="min-h-screen flex flex-col">
       <header className="flex justify-between items-center p-4">
-        <div className="flex gap-4 text-sm">
+        <div className="flex gap-4 text-sm items-center">
           <Link href="/journal" className="text-amber-200/70 hover:text-amber-100 transition-colors">
             📖 {lang === 'th' ? 'สมุดบันทึก' : 'Journal'}
           </Link>
@@ -26,7 +27,10 @@ export function SpreadChooser() {
             ★ {lang === 'th' ? 'ชอบ' : 'Favorites'}
           </Link>
         </div>
-        <LanguageToggle />
+        <div className="flex items-center gap-4">
+          <UserMenu />
+          <LanguageToggle />
+        </div>
       </header>
       
       <main className="flex-1 flex flex-col items-center px-6 py-8">
